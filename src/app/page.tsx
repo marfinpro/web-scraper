@@ -1,65 +1,61 @@
-import Image from "next/image";
+import Link from "next/link";
+
+import { Navbar } from "@/components/navbar";
+
+const FEATURES = [
+  "Scrape engine via Next.js API routes",
+  "Interactive table: search, sort, pagination",
+  "Charts + keyword cloud for fast insights",
+  "Export filtered rows to CSV or JSON",
+  "History timeline with source comparison",
+];
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between bg-white px-16 py-32 sm:items-start dark:bg-black">
-        <Image
-          alt="Next.js logo"
-          className="dark:invert"
-          height={20}
-          priority
-          src="/next.svg"
-          width={100}
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs font-semibold text-3xl text-black leading-10 tracking-tight dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg text-zinc-600 leading-8 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <>
+      <Navbar />
+      <main className="mx-auto w-full max-w-6xl px-5 py-10">
+        <section className="rounded-3xl border border-black/10 bg-white p-8 shadow-sm">
+          <p className="font-medium text-black/60 text-sm uppercase tracking-[0.18em]">
+            Automating Real-World Tasks
           </p>
-        </div>
-        <div className="flex flex-col gap-4 font-medium text-base sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] md:w-[158px] dark:hover:bg-[#ccc]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            <Image
-              alt="Vercel logomark"
-              className="dark:invert"
-              height={16}
-              src="/vercel.svg"
-              width={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-black/[.08] border-solid px-5 transition-colors hover:border-transparent hover:bg-black/[.04] md:w-[158px] dark:border-white/[.145] dark:hover:bg-[#1a1a1a]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            Documentation
-          </a>
-        </div>
+          <h1 className="mt-3 max-w-3xl font-semibold text-4xl text-black leading-tight md:text-5xl">
+            Web Scraper Results Viewer
+          </h1>
+          <p className="mt-4 max-w-3xl text-base text-black/70 md:text-lg">
+            A dashboard to collect, compare, and export scraping results from
+            multiple public sources.
+          </p>
+          <div className="mt-7 flex flex-wrap gap-3">
+            <Link
+              className="!text-white inline-flex items-center justify-center rounded-xl bg-black px-5 py-3 font-medium text-sm transition hover:bg-zinc-800"
+              href="/dashboard"
+            >
+              Open Dashboard
+            </Link>
+            <Link
+              className="inline-flex items-center justify-center rounded-xl border border-black/20 px-5 py-3 font-medium text-black text-sm transition hover:bg-zinc-100"
+              href="/history"
+            >
+              View Scrape History
+            </Link>
+          </div>
+        </section>
+
+        <section className="mt-8 rounded-2xl border border-black/10 bg-white p-6 shadow-sm">
+          <h2 className="font-semibold text-black text-xl">Main Features</h2>
+          <ul className="mt-4 grid gap-3 md:grid-cols-2">
+            {FEATURES.map((feature) => (
+              <li
+                className="rounded-xl border border-black/10 bg-zinc-50 px-4 py-3 text-black/80 text-sm"
+                key={feature}
+              >
+                {feature}
+              </li>
+            ))}
+          </ul>
+        </section>
       </main>
-    </div>
+    </>
   );
 }

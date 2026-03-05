@@ -11,7 +11,11 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@tanstack/react-table": "^8.21.3",
+    "cheerio": "^1.1.2",
+    "json2csv": "^6.0.0-alpha.2",
     "next": "16.1.6",
+    "recharts": "^3.3.0",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },

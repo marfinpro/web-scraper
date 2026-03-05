@@ -1,0 +1,1890 @@
+{
+  "buckets": {
+    "hadits": [],
+    "jobs": [
+      {
+        "id": "f7bba240-f7bb-4615-957c-df4bfb6de810",
+        "content": "Software Engineer",
+        "source": "jobs",
+        "company": "PT. MANPRO TEKNOLOGI INDONESIA",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/1283",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "d185c58c-8e7d-49c2-9a4b-450b1be019dd",
+        "content": "Digital Marketing Associate",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2755",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "29455af5-e751-4cff-b787-c18293103704",
+        "content": "Junior Account Executive",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2760",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "d7c455ac-34e9-407c-a943-dd2cd6a44314",
+        "content": "Full Stack Developer",
+        "source": "jobs",
+        "company": "PT VEF Solusi Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2700",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "2a6cf62d-5320-4071-b4d1-f459ba1ac2d4",
+        "content": "Android Development Instructor",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2745",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "06c4320c-33ac-4a76-b497-804293286d32",
+        "content": "Machine Learning Instructor",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2675",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "48c37603-254e-4ba8-85bd-31debd012547",
+        "content": "Android Curriculum Developer",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2543",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "537cce79-cef3-49b1-bffc-8c18c0b50227",
+        "content": "Back-End Web Curriculum Developer",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2348",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "3b7c5daa-eafc-4c0d-b10d-a0fea10e1b28",
+        "content": "Java Developer (Banking Services)",
+        "source": "jobs",
+        "company": "PT Sellon Data Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2735",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "f9601ba5-6ad9-4856-af5a-905846c398da",
+        "content": "Senior Software Developer",
+        "source": "jobs",
+        "company": "PesonaEdu (PT Pesona Edukasi)",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2685",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "31402535-d671-43c6-867d-4bb927596b89",
+        "content": "DevOps Engineer",
+        "source": "jobs",
+        "company": "PT VEF Solusi Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2695",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "b25aa853-f544-4f59-8c88-8efff43f8985",
+        "content": "Senior IT Programming",
+        "source": "jobs",
+        "company": "PT Capella Dinamik Nusantara",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2670",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "5d71621c-9c41-4d01-997c-d815953abaf1",
+        "content": "Google Cloud Instructor",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2595",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "c37e3f38-29a2-4a1a-9128-1dd9bcfb4f73",
+        "content": "Android Developer",
+        "source": "jobs",
+        "company": "NBS (PT Kode Aplikasi Indonesia)",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2600",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "38b249f6-5e30-4185-a4cf-330405792a10",
+        "content": "Project Manager",
+        "source": "jobs",
+        "company": "NBS (PT Kode Aplikasi Indonesia)",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2630",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "76132512-0d18-4a6d-9fe6-7141208998dd",
+        "content": "Mobile Developer",
+        "source": "jobs",
+        "company": "Newtronic Solution",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2655",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "3ca76fe2-2ff3-4d55-b9f6-bd8e27104e85",
+        "content": "DEVELOPER PHP/JS NATIVE",
+        "source": "jobs",
+        "company": "PT. MANPRO TEKNOLOGI INDONESIA",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2650",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "9889625f-ecb9-4716-a649-258d1adc9fb9",
+        "content": "Front End Developer (React JS/ Native)",
+        "source": "jobs",
+        "company": "PT Kita Lulus Internasional",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2645",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "47fe39ef-f670-4bb6-88c1-03766dcd55af",
+        "content": "iOS Developer",
+        "source": "jobs",
+        "company": "PT Kita Lulus Internasional",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2640",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "55ce2d31-20d1-43f7-91a3-35b6ea1d7fa3",
+        "content": "Frontend Developer",
+        "source": "jobs",
+        "company": "PT. Treetan Nusantara Network",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2635",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "29786564-e917-4cfd-866f-b75329991821",
+        "content": "Android & iOS Mobile Technology Internship Program",
+        "source": "jobs",
+        "company": "NBS (PT Kode Aplikasi Indonesia)",
+        "tags": ["dicoding", "apprenticeship"],
+        "url": "https://www.dicoding.com/jobs/2605",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "bf769906-e2c1-4016-aa43-cc45cd8b1965",
+        "content": "Application Developer / Programmer",
+        "source": "jobs",
+        "company": "PT SANG BYTE INDONESIA",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2615",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "c85d3e3b-954a-47be-9124-1012b245c3dd",
+        "content": "Product Designer",
+        "source": "jobs",
+        "company": "Starva",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2620",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "21734a5e-d48d-4e01-a443-7333f159d0fc",
+        "content": "UI/UX Designer (Remote)",
+        "source": "jobs",
+        "company": "Nice To Meet You Studio",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2610",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "ce5bccfb-6f55-4e4e-b3e7-775d7b000029",
+        "content": "Flutter Developer",
+        "source": "jobs",
+        "company": "Haitoko",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2373",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "d44ed301-9c2a-4bee-a415-cbf783e4f3dd",
+        "content": "Web Developer",
+        "source": "jobs",
+        "company": "R17 Group",
+        "tags": ["dicoding", "parttime"],
+        "url": "https://www.dicoding.com/jobs/2590",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "1e13c6ce-8d7b-41bc-a660-4b394186748e",
+        "content": "QA Tester",
+        "source": "jobs",
+        "company": "NBS (PT Kode Aplikasi Indonesia)",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2503",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "80f6466e-b921-49e7-8f9a-1b26c522e89a",
+        "content": "Fullstack Developer",
+        "source": "jobs",
+        "company": "PT Jaya Agung Teknologi",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2565",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "319e6ed0-b7f0-44fd-8473-a937641e3c85",
+        "content": "Mobile Developer",
+        "source": "jobs",
+        "company": "First Resources",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2560",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "4af0ac8d-56be-4306-882b-588b51febae5",
+        "content": "Academy Code Reviewer",
+        "source": "jobs",
+        "company": "Dicoding Indonesia",
+        "tags": ["dicoding", "fulltime"],
+        "url": "https://www.dicoding.com/jobs/2293",
+        "scrapedAt": "2026-03-05T07:00:22.868Z"
+      },
+      {
+        "id": "6768602f-bae2-4b6c-a685-539b3b44a6f8",
+        "content": "Open Hiring Freelance Admin dari Rumah Bonus hingga Rp120.000 - WAF",
+        "source": "jobs",
+        "company": "Misi Seru - KitaLulus",
+        "location": "Kerja dari manapun (Remote)",
+        "tags": [
+          "kitalulus",
+          "freelance",
+          "pekerja harian",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/misi-seru-remote-hadiah-puluhan-ribu-freelance-dar-xxja",
+        "scrapedAt": "1970-01-21T12:24:30.373Z"
+      },
+      {
+        "id": "49aa755b-8df7-4000-a3d5-fb31f813c222",
+        "content": "Account Manager",
+        "source": "jobs",
+        "company": "ION Network",
+        "location": "Campuran (Hybrid)",
+        "tags": ["kitalulus", "kontrak", "sales", "minimal d3/d4"],
+        "url": "https://www.kitalulus.com/lowongan/detail/account-manager-vj1b",
+        "scrapedAt": "1970-01-21T12:24:53.782Z"
+      },
+      {
+        "id": "1a1f3420-675d-440c-a14a-3d669e021042",
+        "content": "STAFF MARKETING PERBANKAN",
+        "source": "jobs",
+        "company": "PT Padma Raharja Sentosa",
+        "location": "Campuran (Hybrid)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "sales",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/staff-marketing-perbankan-pogi",
+        "scrapedAt": "1970-01-21T12:24:52.845Z"
+      },
+      {
+        "id": "0cba54dc-efe4-4fc4-8513-937125e31002",
+        "content": "Promotor Sales Shopee Paylater Jabodetabek",
+        "source": "jobs",
+        "company": "PT Bermuda Advertising",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "sales",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/promotor-sales-shopee-paylater-jabodetabek-xqfz",
+        "scrapedAt": "1970-01-21T12:24:52.275Z"
+      },
+      {
+        "id": "db478295-4ca0-4ce1-89e8-136f22a283e5",
+        "content": "Credit Risk Management Officer",
+        "source": "jobs",
+        "company": "PT Modal Ventura YCAB",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": ["kitalulus", "full-time", "keuangan", "minimal d3/d4"],
+        "url": "https://www.kitalulus.com/lowongan/detail/credit-risk-management-officer-yape",
+        "scrapedAt": "1970-01-21T12:24:52.233Z"
+      },
+      {
+        "id": "9e181435-bd8f-4167-a2f2-1ea1084f3043",
+        "content": "Telemarketing Finance",
+        "source": "jobs",
+        "company": "Rajawali Berdikari Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "telemarketing",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/telemarketing-finance-zyph",
+        "scrapedAt": "1970-01-21T12:24:51.000Z"
+      },
+      {
+        "id": "d895928c-2703-4f9b-979f-e3ece6108655",
+        "content": "Desk Collection Recovery",
+        "source": "jobs",
+        "company": "PT Intrias Mandiri Sejati",
+        "location": "Campuran (Hybrid)",
+        "tags": ["kitalulus", "kontrak", "penagihan", "minimal d3/d4"],
+        "url": "https://www.kitalulus.com/lowongan/detail/desk-collection-lpir",
+        "scrapedAt": "1970-01-21T12:24:50.202Z"
+      },
+      {
+        "id": "c04f026f-dbaf-4975-96e3-2663cb301bf4",
+        "content": "Pramuniaga (Gianyar Bali)",
+        "source": "jobs",
+        "company": "PT Pusat Gadai Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": ["kitalulus", "kontrak", "teller", "minimal sma/smk/sederajat"],
+        "url": "https://www.kitalulus.com/lowongan/detail/pramuniaga-gianyar-bali-anhx",
+        "scrapedAt": "1970-01-21T12:24:49.696Z"
+      },
+      {
+        "id": "2b6cb1ba-5249-4bf3-8678-69320660e2eb",
+        "content": "Assistant Cake Decorator Baking/Coating (Tangerang)",
+        "source": "jobs",
+        "company": "Mint Patisserie",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "kontrak",
+          "staf restoran",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/assistant-cake-decorator-bakingcoating-tangerang-6443",
+        "scrapedAt": "1970-01-21T12:24:49.623Z"
+      },
+      {
+        "id": "9a0205c3-48dc-468f-9f22-0cfe9a9cd16b",
+        "content": "Telemarketing",
+        "source": "jobs",
+        "company": "Rajawali Berdikari Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "telemarketing",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/telemarketing-ueft",
+        "scrapedAt": "1970-01-21T12:24:49.555Z"
+      },
+      {
+        "id": "45c22f1d-f57d-4320-a9c5-e8dfa8aeb610",
+        "content": "Staf Receiving (Gudang)",
+        "source": "jobs",
+        "company": "PT Hero Retail Nusantara",
+        "location": "Kerja di lapangan (Fieldwork)",
+        "tags": ["kitalulus", "kontrak", "sales", "minimal sma/smk/sederajat"],
+        "url": "https://www.kitalulus.com/lowongan/detail/staf-receiving-gudang-pngy",
+        "scrapedAt": "1970-01-21T12:24:48.059Z"
+      },
+      {
+        "id": "0abd0860-2a65-4c1e-bc4c-0df3f1ab467d",
+        "content": "Crew Outlet Ayam Bersih Berkah",
+        "source": "jobs",
+        "company": "PT Citarasa Prima Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "staf restoran",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/crew-outlet-ayam-bersih-berkah-qcse",
+        "scrapedAt": "1970-01-21T12:24:46.961Z"
+      },
+      {
+        "id": "b3508f3c-8170-4a06-ab22-778377ad225d",
+        "content": "Pramuniaga (Buleleng Bali)",
+        "source": "jobs",
+        "company": "PT Pusat Gadai Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": ["kitalulus", "kontrak", "teller", "minimal sma/smk/sederajat"],
+        "url": "https://www.kitalulus.com/lowongan/detail/pramuniaga-buleleng-rxnx",
+        "scrapedAt": "1970-01-21T12:24:45.956Z"
+      },
+      {
+        "id": "6d05277d-96b6-4b8c-b84a-56cb6a29ca0e",
+        "content": "Pramuniaga (Bali)",
+        "source": "jobs",
+        "company": "PT Pusat Gadai Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": ["kitalulus", "kontrak", "teller", "minimal sma/smk/sederajat"],
+        "url": "https://www.kitalulus.com/lowongan/detail/pramuniaga-klungkung-rvoh",
+        "scrapedAt": "1970-01-21T12:24:45.802Z"
+      },
+      {
+        "id": "f91f5038-4bcf-4d4d-90fe-0e72551582af",
+        "content": "Sales Consultant (Honda KMG Manado)",
+        "source": "jobs",
+        "company": "Kumala Group",
+        "location": "Campuran (Hybrid)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "marketing",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/sales-consultant-honda-kmg-manado-kgd9",
+        "scrapedAt": "1970-01-21T12:24:45.381Z"
+      },
+      {
+        "id": "a5c1c53f-49c0-4200-89b4-11fffaea9181",
+        "content": "Waiter / Waitress",
+        "source": "jobs",
+        "company": "My Kopi-O! Group",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "staf restoran",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/waiter-waitress-8slk",
+        "scrapedAt": "1970-01-21T12:24:45.147Z"
+      },
+      {
+        "id": "543ec550-0dfe-4fa5-a094-979649c56484",
+        "content": "Agent Desk Collection",
+        "source": "jobs",
+        "company": "PT Mitra Pelita Terangi Bangsa",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "graphic designer",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/agent-desk-collection-uciw",
+        "scrapedAt": "1970-01-21T12:24:44.949Z"
+      },
+      {
+        "id": "f4d2fbf9-b478-4953-bc71-617f2beb8461",
+        "content": "Merchandiser for Marketplace (Jakarta Barat)",
+        "source": "jobs",
+        "company": "PT Trimitra Promosindo",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": ["kitalulus", "full-time", "merchandiser", "minimal d3/d4"],
+        "url": "https://www.kitalulus.com/lowongan/detail/merchandiser-for-marketplace-jakarta-barat-rwwl",
+        "scrapedAt": "1970-01-21T12:24:44.113Z"
+      },
+      {
+        "id": "3bc3743d-57af-4158-ac16-8f0053d72244",
+        "content": "Chief Baker Training & Operations - Retail Chain (KLI-9)",
+        "source": "jobs",
+        "company": "KitaLulus",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "baker (pembuat roti)",
+          "minimal d3/d4"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/chief-baker-training-operations-retail-chain-fhe4",
+        "scrapedAt": "1970-01-21T12:24:44.012Z"
+      },
+      {
+        "id": "b98b2df3-5473-4c14-ba96-f5f618e02b71",
+        "content": "Hub Lead - SPX Express (Kabupaten Bojonegoro, Jawa Timur)",
+        "source": "jobs",
+        "company": "SPX Express",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "logistik",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/hub-lead-spx-express-kabupaten-bojonegoro-jawa-3ui7",
+        "scrapedAt": "1970-01-21T12:24:42.650Z"
+      },
+      {
+        "id": "94d593fb-614e-4ea1-91df-f6d36146ff58",
+        "content": "Service Consultant (Cashier - Frontliner) - TSM Bandung",
+        "source": "jobs",
+        "company": "Euromedica Group",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "call center",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/service-consultant-cashier-frontliner-tsm-ba-qror",
+        "scrapedAt": "1970-01-21T12:24:42.556Z"
+      },
+      {
+        "id": "24014d46-4003-463a-b5a6-6e6fd444f46d",
+        "content": "Pramuniaga (Badung Bali)",
+        "source": "jobs",
+        "company": "PT Pusat Gadai Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": ["kitalulus", "kontrak", "teller", "minimal sma/smk/sederajat"],
+        "url": "https://www.kitalulus.com/lowongan/detail/pramuniaga-badung-vjjj",
+        "scrapedAt": "1970-01-21T12:24:42.223Z"
+      },
+      {
+        "id": "897e2b21-52e1-4c2c-9b78-282c7db39cca",
+        "content": "Product Owner",
+        "source": "jobs",
+        "company": "Bank Jakarta",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "kontrak",
+          "digital product manager",
+          "minimal s1"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/product-owner-fxf7",
+        "scrapedAt": "1970-01-21T12:24:41.941Z"
+      },
+      {
+        "id": "34af5e76-8e99-4673-9c83-9b79133d9233",
+        "content": "Crew Sales Store area Tangerang",
+        "source": "jobs",
+        "company": "PT Home Credit Indonesia",
+        "location": "Kerja di lapangan (Fieldwork)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "merchandiser",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/crew-sales-store-area-karawaci-kelapa-gading-ooeh",
+        "scrapedAt": "1970-01-21T12:24:41.864Z"
+      },
+      {
+        "id": "f8fb784d-59e1-4d5a-9168-b257bbc98a95",
+        "content": "SALES WIFI JATIM (Surabaya, Sidoarjo, Gresik, Mojokerto)",
+        "source": "jobs",
+        "company": "PT Artha Kreasi Utama",
+        "location": "Kerja di lapangan (Fieldwork)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "sales",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/sales-wifi-surabaya-jqjj",
+        "scrapedAt": "1970-01-21T12:24:41.844Z"
+      },
+      {
+        "id": "d0216be9-307d-496f-8d9e-fdf831010010",
+        "content": "Pramuniaga (Denpasar Bali)",
+        "source": "jobs",
+        "company": "PT Pusat Gadai Indonesia",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": ["kitalulus", "kontrak", "teller", "minimal sma/smk/sederajat"],
+        "url": "https://www.kitalulus.com/lowongan/detail/pramuniaga-ksdh",
+        "scrapedAt": "1970-01-21T12:24:41.642Z"
+      },
+      {
+        "id": "5501ee78-8359-4088-baa5-9602eedc5393",
+        "content": "Shift Lead - SPX Express (Kab. Merangin, Jambi )",
+        "source": "jobs",
+        "company": "SPX Express",
+        "location": "Kerja di lapangan (Fieldwork)",
+        "tags": [
+          "kitalulus",
+          "kontrak",
+          "logistik",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/shift-lead-spx-express-kab-merangin-jambi-5dxj",
+        "scrapedAt": "1970-01-21T12:24:41.007Z"
+      },
+      {
+        "id": "f3e18b01-5749-4065-9677-1d1dc387f1c2",
+        "content": "SALES OFFICER PERBAKAN PALEMBANG",
+        "source": "jobs",
+        "company": "PT Bahtera Pesat Lintasbuana",
+        "location": "Kerja di lapangan (Fieldwork)",
+        "tags": ["kitalulus", "kontrak", "sales", "minimal s1"],
+        "url": "https://www.kitalulus.com/lowongan/detail/sales-officer-perbakan-palembang-lx7k",
+        "scrapedAt": "1970-01-21T12:24:37.972Z"
+      },
+      {
+        "id": "850e333a-29e7-4d11-b0c7-6bcf85cb7465",
+        "content": "Crew Outlet Sidoarjo",
+        "source": "jobs",
+        "company": "PT WAFI BARRA MANDIRI",
+        "location": "Kerja dari kantor (WFO)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "staf restoran",
+          "minimal smp/mts/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/crew-outlet-sidoarjo-ku5w",
+        "scrapedAt": "1970-01-21T12:24:36.835Z"
+      },
+      {
+        "id": "9497fd53-de66-400a-927e-5138d275e81f",
+        "content": "Crew Store - Kab. Grobogan (R. Suprapto)",
+        "source": "jobs",
+        "company": "PT Pesta Pora Abadi (Mie Gacoan)",
+        "location": "Kerja di lapangan (Fieldwork)",
+        "tags": [
+          "kitalulus",
+          "full-time",
+          "staf restoran",
+          "minimal sma/smk/sederajat"
+        ],
+        "url": "https://www.kitalulus.com/lowongan/detail/crew-store-kab-grobogan-r-suprapto-xhv7",
+        "scrapedAt": "1970-01-21T12:24:36.830Z"
+      },
+      {
+        "id": "a338527d-9835-4bc8-b828-5ab39bc853ab",
+        "content": "President Direc...",
+        "source": "jobs",
+        "company": "Macquarie Sekuritas...",
+        "location": "KOTA ADM. JAKARTA SELATAN, DKI JAKART...",
+        "tags": ["kemnaker", "karirhub", "dirahasiakan"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      },
+      {
+        "id": "beccff0a-96b6-462b-88e5-cec06b158fc2",
+        "content": "IT Programmer",
+        "source": "jobs",
+        "company": "PT. Hardo Soloplast",
+        "location": "KAB. KARANGANYAR, JAWA TENGA...",
+        "tags": ["kemnaker", "karirhub", "dirahasiakan"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      },
+      {
+        "id": "e3eaae67-e711-48a7-87e3-977794154831",
+        "content": "Teknik Sipil",
+        "source": "jobs",
+        "company": "PT. Standard Toyo Po...",
+        "location": "KOTA CILEGON, BANTEN",
+        "tags": ["kemnaker", "karirhub", "rp6jt - rp7,50jt"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      },
+      {
+        "id": "51a1142f-8120-4c8c-a2df-5fc4a336b267",
+        "content": "STAFF SIMRS",
+        "source": "jobs",
+        "company": "Citra Media Fortuna",
+        "location": "KAB. SIDOARJO, JAWA TIMUR",
+        "tags": ["kemnaker", "karirhub", "dirahasiakan"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      },
+      {
+        "id": "06addb55-2b1c-4ea7-98de-491e0f4223fa",
+        "content": "Tenaga Administ...",
+        "source": "jobs",
+        "company": "Vuteq Indonesia",
+        "location": "KAB. BEKASI, JAWA BARAT",
+        "tags": ["kemnaker", "karirhub", "rp5jt - rp6,50jt"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      },
+      {
+        "id": "c10dc440-2832-4a85-a951-29f9cfda5c6b",
+        "content": "Sales Provider",
+        "source": "jobs",
+        "company": "Jmax Indonesia",
+        "location": "KOTA ADM. JAKARTA SELATAN, DKI JAKART...",
+        "tags": ["kemnaker", "karirhub", "dirahasiakan"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      },
+      {
+        "id": "a77964db-328b-410d-bb57-56009c08cfd0",
+        "content": "SUPIR/KURIR CAB...",
+        "source": "jobs",
+        "company": "PT Tunas Antarnusa M...",
+        "location": "KOTA DEPANSAR, BALI",
+        "tags": ["kemnaker", "karirhub", "dirahasiakan"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      },
+      {
+        "id": "52a7751f-9996-4681-8172-f74980390522",
+        "content": "MARKETING EXECU...",
+        "source": "jobs",
+        "company": "PT Tunas Antarnusa M...",
+        "location": "KAB. BANTUL, DAERAH IST...",
+        "tags": ["kemnaker", "karirhub", "dirahasiakan"],
+        "url": "https://karirhub.kemnaker.go.id/",
+        "scrapedAt": "2026-03-05T07:00:28.440Z"
+      }
+    ],
+    "news": [
+      {
+        "id": "596e17ce-c4c7-4aa7-8487-722582bb3d12",
+        "content": "Warga Lihat Ada Pria Bawa Tas Sebelum Bayi Ditemukan di Gerobak di Jaksel — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/dinda-dan-ibunya-jadi-warga-pertama-yang-menemukan-bayi-dalam-gerobak-nasi-uduk-di-jaksel-taufiqdetikcom-1772692349034_169.jpeg?w=360&q=90\"/> Bayi perempuan ditemukan dalam gerobak di Pasar Minggu, Jaksel. Warga sempat melihat sosok pria dewasa menenteng tas besar lewat depan rumahnya.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385417/warga-lihat-ada-pria-bawa-tas-sebelum-bayi-ditemukan-di-gerobak-di-jaksel",
+        "scrapedAt": "2026-03-05T06:45:38.000Z"
+      },
+      {
+        "id": "9406b5e8-4992-4bbb-ab2c-4ee5fcc24142",
+        "content": "3 Terdakwa Korupsi Minyak Mentah Ajukan Banding Usai Divonis 9-10 Tahun Bui — <img src=\"https://akcdn.detik.net.id/community/media/visual/2024/09/28/ilustrasi-sidang-mk-1_169.jpeg?w=360&q=90\"/> Yoki Firnandi dan dua terdakwa lainnya ajukan banding atas vonis 9 dan 10 tahun penjara dalam kasus korupsi minyak mentah.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385397/3-terdakwa-korupsi-minyak-mentah-ajukan-banding-usai-divonis-9-10-tahun-bui",
+        "scrapedAt": "2026-03-05T06:31:08.000Z"
+      },
+      {
+        "id": "88956a84-9ea5-4108-a097-a7dc0ae347c8",
+        "content": "Gelar Buka Puasa Bersama, Pemkab Gianyar Tekankan Toleransi dan Persatuan — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/gelar-buka-puasa-bersama-wabup-gianyar-tekankan-toleransi-dan-persatuan-1772692159221.jpeg?w=360&q=90\"/> Pemkab Gianyar menggelar buka puasa bersama untuk mempererat silaturahmi. Wakil Bupati menekankan pentingnya kebersamaan dan toleransi antar umat beragama.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385396/gelar-buka-puasa-bersama-pemkab-gianyar-tekankan-toleransi-dan-persatuan",
+        "scrapedAt": "2026-03-05T06:29:34.000Z"
+      },
+      {
+        "id": "80e2e1f6-6dbb-45e8-af49-29e42803954d",
+        "content": "45+ Ucapan Menyambut Nuzulul Quran 2026 — <img src=\"https://akcdn.detik.net.id/community/media/visual/2024/11/06/ilustrasi-alquran-3_169.jpeg?w=360&q=90\"/> Sambut Nuzulul Quran 2026 dengan ucapan penuh makna. Temukan inspirasi kata-kata reflektif untuk memperingati turunnya Al-Quran.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385379/45-ucapan-menyambut-nuzulul-quran-2026",
+        "scrapedAt": "2026-03-05T06:25:24.000Z"
+      },
+      {
+        "id": "2adb102b-b376-42db-856d-d5759dcaec09",
+        "content": "Bareskrim Minta Bank Perketat Pembukaan Rekening untuk Cegah Transaksi Judol — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/direktur-tindak-pidana-siber-bareskrim-polri-brigjen-himawan-bayu-aji-rumondang-naibahodetikcom-1772691713463_169.jpeg?w=360&q=90\"/> Polri terus berantas perjudian online dengan fokus pada pemutusan aliran dana. Kerja sama dengan perbankan dan sistem deteksi dini jadi kunci pencegahan.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385377/bareskrim-minta-bank-perketat-pembukaan-rekening-untuk-cegah-transaksi-judol",
+        "scrapedAt": "2026-03-05T06:22:50.000Z"
+      },
+      {
+        "id": "49258b0c-4f2f-4586-8c82-20147e78234c",
+        "content": "Bus di Terminal Pakupatan Serang Dicek Ketat Jelang Mudik, Sopir Dites Urine — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/pemeriksaan-bus-di-terminal-pakupatan-dok-ist-1772691610665_169.jpeg?w=360&q=90\"/> Polresta Serang Kota menggelar pemeriksaan pada bus di Terminal Pakupatan. Kegiatan ini untuk meningkatkan keselamatan transportasi menjelang arus mudik.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385374/bus-di-terminal-pakupatan-serang-dicek-ketat-jelang-mudik-sopir-dites-urine",
+        "scrapedAt": "2026-03-05T06:21:07.000Z"
+      },
+      {
+        "id": "776c762d-702f-4e4d-9d75-c26aca5dc5ec",
+        "content": "Gerak-gerik Wanita Pura-pura Melayat di Jaktim tapi Gondol Duit Takziah — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/aksi-wanita-diduga-mencuri-uang-takziah-dengan-berpura-pura-melayat-terjadi-di-kramat-jati-jaktim-polisi-menyelidiki-kasus-pen-1772688127130_169.webp?w=360&q=90\"/> Seorang wanita diduga mencuri uang takziah setelah pura-pura bertakziah di Kramat Jati, Jaktim. Gerak-gerik pelaku diungkap pihak keluarga korban.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385372/gerak-gerik-wanita-pura-pura-melayat-di-jaktim-tapi-gondol-duit-takziah",
+        "scrapedAt": "2026-03-05T06:20:42.000Z"
+      },
+      {
+        "id": "3a808898-52fc-42f8-a779-e95cc28b2eac",
+        "content": "Di DPR, PRT Curhat Tak Boleh Duduk di Sofa Saat Antar Anak Majikan — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/rapat-dengar-pendapat-umum-rdpu-badan-legislasi-baleg-dpr-yang-membahas-masukan-ruu-pprt-di-kompleks-parlemen-senayan-anggi-mu-1772684818641_169.jpeg?w=360&q=90\"/> Wiwi Kartiwi, seorang PRT, mengungkapkan diskriminasi yang dialaminya saat bekerja. Dia mendesak agar RUU PPRT segera disahkan untuk perlindungan hukum.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385367/di-dpr-prt-curhat-tak-boleh-duduk-di-sofa-saat-antar-anak-majikan",
+        "scrapedAt": "2026-03-05T06:18:59.000Z"
+      },
+      {
+        "id": "e75f17ed-5443-48e3-bf2d-1bf388353bb5",
+        "content": "Hal Tak Biasa di OTT KPK terhadap Bupati Pekalongan Fadia Arafiq — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/04/ditahan-kpk-bupati-pekalongan-tutupi-wajah-1772603089807_169.jpeg?w=360&q=90\"/> KPK telah menetapkan Bupati Pekalongan Fadia Arafiq (FAR) sebagai tersangka usai terjaring dalam operasi tangkap tangan. Ada hal yang tak biasa dalam kasus ini.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385366/hal-tak-biasa-di-ott-kpk-terhadap-bupati-pekalongan-fadia-arafiq",
+        "scrapedAt": "2026-03-05T06:18:29.000Z"
+      },
+      {
+        "id": "63277133-81e5-49f0-8b64-14099ddc6409",
+        "content": "Polri Tindak 21 Tersangka Karhutla di 2026: Terbanyak Polda Riau — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/apel-kesiapsiagaan-pencegahan-dan-penanganan-karhutla-2026-1772687556116_169.jpeg?w=360&q=90\"/> Kabareskrim Polri memuji Polda Riau menangkap 13 tersangka karhutla. Polri tegaskan sanksi tegas bagi pelaku pembakaran hutan, baik individu maupun korporasi.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385358/polri-tindak-21-tersangka-karhutla-di-2026-terbanyak-polda-riau",
+        "scrapedAt": "2026-03-05T06:15:39.000Z"
+      },
+      {
+        "id": "edec59a6-7207-435c-bede-439363ea7dfd",
+        "content": "Laporan Dugaan Pelanggaran Etik Adies Kadir Tak Diterima MKMK — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/sidang-mkmk-adhfardetikcom-1772690758779_169.jpeg?w=360&q=90\"/> Majelis Kehormatan Mahkamah Konstitusi (MKMK) memutuskan tidak menerima laporan dugaan pelanggaran kode etik yang dilakukan oleh hakim MK Adies Kadir.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385334/laporan-dugaan-pelanggaran-etik-adies-kadir-tak-diterima-mkmk",
+        "scrapedAt": "2026-03-05T06:06:23.000Z"
+      },
+      {
+        "id": "38dc98ba-fc76-4e7e-b4fa-0d7fe6f8e256",
+        "content": "Ngabuburit di Roblox Bareng TRING! Pegadaian, Seru dan Berhadiah — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/ngabuburit-di-roblox-1772690738471.png?w=360&q=90\"/> Rasakan pengalaman ngabuburit unik di Ramadan dengan Ngabuburit di Roblox Bersama TRING! by Pegadaian. Ikuti misi seru dan menangkan hadiah menarik!",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385326/ngabuburit-di-roblox-bareng-tring-pegadaian-seru-dan-berhadiah",
+        "scrapedAt": "2026-03-05T06:06:01.000Z"
+      },
+      {
+        "id": "1a367ccb-b90d-4516-ab06-1ea758b46b4e",
+        "content": "Cerita Warga Temukan Bayi dalam Gerobak di Jaksel, Berawal Dengar Tangisan — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/dinda-dan-ibunya-jadi-warga-pertama-yang-menemukan-bayi-dalam-gerobak-nasi-uduk-di-jaksel-taufiqdetikcom-1772690713619_169.jpeg?w=360&q=90\"/> Anak pemilik gerobak nasi uduk bernama Dinda (20) mengatakan penemuan bayi berawal dari munculnya suara tangisan di depan rumahnya.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385324/cerita-warga-temukan-bayi-dalam-gerobak-di-jaksel-berawal-dengar-tangisan",
+        "scrapedAt": "2026-03-05T06:05:29.000Z"
+      },
+      {
+        "id": "9314a01b-e51d-4084-b363-810f98d6a24e",
+        "content": "Komnas Perempuan Minta RUU PPRT Disahkan dalam Satu Masa Sidang — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/rapat-dengar-pendapat-umum-rdpu-badan-legislasi-baleg-dpr-yang-membahas-masukan-ruu-pprt-di-kompleks-parlemen-senayan-anggi-mu-1772684818641_169.jpeg?w=360&q=90\"/> Komnas Perempuan mendesak pengesahan RUU PPRT dalam satu masa sidang untuk mengakui nilai ekonomi pekerja rumah tangga dan memperbaiki stigma sosial.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385288/komnas-perempuan-minta-ruu-pprt-disahkan-dalam-satu-masa-sidang",
+        "scrapedAt": "2026-03-05T05:54:50.000Z"
+      },
+      {
+        "id": "530b9356-e088-43b2-b6f8-eb893525a493",
+        "content": "Pencurian di Resto Milik Praz Teguh Terekam CCTV, Polisi Selidiki — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/pencurian-di-restoran-milik-praz-teguh-terekam-cctv-dok-akun-instagram-praz-teguh-1772689726315_169.jpeg?w=360&q=90\"/> Pencurian terjadi di restoran milik komika Praz Teguh di Jalan Margonda Raya, Depok. Polisi menyelidiki kasus tersebut.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385282/pencurian-di-resto-milik-praz-teguh-terekam-cctv-polisi-selidiki",
+        "scrapedAt": "2026-03-05T05:52:57.000Z"
+      },
+      {
+        "id": "e9d07d40-4941-4c20-8b3d-a716c0629850",
+        "content": "Tembok Rumah Warga di Bogor Ambruk Tertimpa Longsoran Penahan Tanah — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/tembok-rumah-warga-ambruk-tertimpa-longsoran-penahan-tanah-dok-istimewa-1772688861857_169.jpeg?w=360&q=90\"/> Tembok rumah di Desa Cijeruk, Bogor, ambruk akibat longsor dan hujan deras. Dua rumah rusak, namun tidak ada korban jiwa",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385248/tembok-rumah-warga-di-bogor-ambruk-tertimpa-longsoran-penahan-tanah",
+        "scrapedAt": "2026-03-05T05:34:37.000Z"
+      },
+      {
+        "id": "5252a6b1-1cba-4b9d-a3eb-b6f7f06c96dc",
+        "content": "Simak Cara Hitung Bayar Zakat Fitrah, Besaran dan Waktunya — <img src=\"https://akcdn.detik.net.id/community/media/visual/2025/03/19/ilustrasi-zakat-1742372676576_169.jpeg?w=360&q=90\"/> Berikut informasi lengkap terkait cara hitung bayar zakat fitrah 2026, besaran hingga waktunya.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385246/simak-cara-hitung-bayar-zakat-fitrah-besaran-dan-waktunya",
+        "scrapedAt": "2026-03-05T05:34:13.000Z"
+      },
+      {
+        "id": "106f94bc-d80e-4bfa-8553-e9f083a43b49",
+        "content": "Bayi Terbungkus Selimut di Depan Sekolah Jaksel Dibuang Pria, Pelaku Diburu — <img src=\"https://akcdn.detik.net.id/community/media/visual/2023/05/11/ilustrasi_43.jpeg?w=360&q=90\"/> Kasus ini masih dalam proses penyelidikan Satreskrim Polsek Kebayoran Baru. Identitas pria yang membuang bayi sedang ditelusuri.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385229/bayi-terbungkus-selimut-di-depan-sekolah-jaksel-dibuang-pria-pelaku-diburu",
+        "scrapedAt": "2026-03-05T05:29:28.000Z"
+      },
+      {
+        "id": "a4c02d08-ab4b-4c8e-bf8f-256aaa95373b",
+        "content": "RUU PPRT, YLBHI Usul Panic Button dan Hak Berserikat Pekerja Rumah Tangga — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/rapat-baleg-dpr-ri-tentang-ruu-pprt-1772688337633_169.jpeg?w=360&q=90\"/> YLBHI menyoroti pentingnya pengaturan hak berserikat bagi pekerja rumah tangga dalam RUU PPRT, terutama ketika pekerja menghadapi persoalan hukum.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385227/ruu-pprt-ylbhi-usul-panic-button-dan-hak-berserikat-pekerja-rumah-tangga",
+        "scrapedAt": "2026-03-05T05:26:16.000Z"
+      },
+      {
+        "id": "81a4376d-bdad-49d5-b83a-c66f6c46e214",
+        "content": "Viral Wanita Pura-pura Melayat lalu Curi Uang Takziah di Jaktim — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/aksi-wanita-diduga-mencuri-uang-takziah-dengan-berpura-pura-melayat-terjadi-di-kramat-jati-jaktim-polisi-menyelidiki-kasus-pen-1772688127050_169.webp?w=360&q=90\"/> Aksi wanita diduga mencuri uang takziah dengan berpura-pura melayat terjadi di Kramat Jati, Jaktim. Polisi menyelidiki kasus pencurian tersebut.",
+        "source": "news",
+        "tags": ["detik-news"],
+        "url": "https://news.detik.com/berita/d-8385222/viral-wanita-pura-pura-melayat-lalu-curi-uang-takziah-di-jaktim",
+        "scrapedAt": "2026-03-05T05:22:23.000Z"
+      },
+      {
+        "id": "11e45867-6d61-4628-995a-993e4b471bf4",
+        "content": "Perang Timur Tengah Dongkrak Harga Minyak, Dampak ke Subsidi BBM Dihitung — <img src=\"https://akcdn.detik.net.id/community/media/visual/2025/11/14/menteri-esdm-bahlil-lahadalia-1763121463403_169.jpeg?w=360&q=90\"/> Pemerintah kini mulai menghitung dampak perang Amerika Serikat (AS) &amp; Israel lawan Iran tersebut terhadap anggaran subsidi bahan bakar minyak (BBM).",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/energi/d-8385368/perang-timur-tengah-dongkrak-harga-minyak-dampak-ke-subsidi-bbm-dihitung",
+        "scrapedAt": "2026-03-05T06:19:07.000Z"
+      },
+      {
+        "id": "cf3a9926-7982-41b9-915a-350fdf08f26d",
+        "content": "Fitch Singgung Beban MBG, Airlangga: Investasi US$ 1, Menghasilkan US$ 7 — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/menteri-koordinator-bidang-perekonomian-airlangga-hartarto-1772687826062_169.jpeg?w=360&q=90\"/> Menurut Airlangga, program tersebut justru merupakan investasi jangka panjang bagi Indonesia.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385301/fitch-singgung-beban-mbg-airlangga-investasi-us-1-menghasilkan-us-7",
+        "scrapedAt": "2026-03-05T06:00:44.000Z"
+      },
+      {
+        "id": "867abf8a-89cf-4769-822d-d27ba7555bf4",
+        "content": "Warga Pakistan Andalkan Bensin Murah dari Iran — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/warga-pakistan-andalkan-bensin-murah-dari-iran-1772682275087.jpeg?w=360&q=90\"/> Bensin dari Iran ramai dijual di Quetta, Pakistan. Warga membelinya karena harganya lebih murah dibanding bahan bakar resmi di negara itu.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/foto-bisnis/d-8385055/warga-pakistan-andalkan-bensin-murah-dari-iran",
+        "scrapedAt": "2026-03-05T06:00:16.000Z"
+      },
+      {
+        "id": "f45275ef-7de3-45a5-935b-496e86977398",
+        "content": "Lo Kheng Hong Koleksi Saham Sritex, Nyangkut Rp 30 M — <img src=\"https://akcdn.detik.net.id/community/media/visual/2022/02/09/lo-kheng-hongdok-pribadi-2_169.jpeg?w=360&q=90\"/> Lo Kheng Hong (LKH) mengoleksi banyak saham emiten yang diperdagangkan di Bursa Efek Indonesia (BEI), salah satunya PT Sri Rejeki Isman Tbk (SRIL) atau Sritex.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/bursa-dan-valas/d-8385287/lo-kheng-hong-koleksi-saham-sritex-nyangkut-rp-30-m",
+        "scrapedAt": "2026-03-05T05:54:43.000Z"
+      },
+      {
+        "id": "00947972-91e6-455e-b47b-41c305b5a04b",
+        "content": "Kondisi Terkini Kapal Pertamina yang Masih Terjebak di Selat Hormuz — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/03/potret-satelit-ratusan-kapal-besar-tertahan-di-selat-hormuz-1772512246179_169.jpeg?w=360&q=90\"/> Menteri ESDM Bahlil Lahadalia mengungkapkan kondisi terkini dua kapal tanker milik PT Pertamina International Shipping yang masih terjebak di selat Hormuz.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/energi/d-8385276/kondisi-terkini-kapal-pertamina-yang-masih-terjebak-di-selat-hormuz",
+        "scrapedAt": "2026-03-05T05:48:34.000Z"
+      },
+      {
+        "id": "8eb355ec-71b0-4a17-b824-a3f5e0e14229",
+        "content": "Belum Cukup Pecat 16.000 Karyawan, Amazon Lagi-lagi PHK Massal — <img src=\"https://akcdn.detik.net.id/community/media/visual/2023/04/27/amazon-mulai-phk-9000-karyawan-kali-ini-divisi-sdm-dan-cloud-5_169.jpeg?w=360&q=90\"/> Amazon kembali memangkas ratusan karyawan, kali ini di divisi robotika. PHK ini menyusul pemangkasan 16.000 pekerja sebelumnya, menandakan efisiensi berlanjut.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385270/belum-cukup-pecat-16-000-karyawan-amazon-lagi-lagi-phk-massal",
+        "scrapedAt": "2026-03-05T05:44:03.000Z"
+      },
+      {
+        "id": "fc25ec7c-7871-4c9c-845c-ff55396b4b8d",
+        "content": "Blackout di Irak! Ibu Kota Baghdad Gelap Gulita — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/gelap-gulita-pemadaman-listrik-massal-lumpuhkan-kuba-1772685331834_169.jpeg?w=360&q=90\"/> Baghdad dan wilayah selatan Irak mengalami pemadaman listrik total akibat kerusakan teknis. Perbaikan sedang dilakukan untuk memulihkan pasokan listrik.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/energi/d-8385238/blackout-di-irak-ibu-kota-baghdad-gelap-gulita",
+        "scrapedAt": "2026-03-05T05:30:12.000Z"
+      },
+      {
+        "id": "cde29793-b5e1-4b18-9b4d-e0b99fab5ec4",
+        "content": "Fitch Turunkan Outlook RI Jadi Negatif, Airlangga Bilang Begini — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/menteri-koordinator-bidang-perekonomian-airlangga-hartarto-1772687826117_169.jpeg?w=360&q=90\"/> Menteri Koordinator Bidang Perekonomian, Airlangga Hartarto merespons keputusan lembaga pemeringkat Fitch Ratings.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385217/fitch-turunkan-outlook-ri-jadi-negatif-airlangga-bilang-begini",
+        "scrapedAt": "2026-03-05T05:19:21.000Z"
+      },
+      {
+        "id": "23f02c97-1a3e-4c0d-9593-5f150dc466dc",
+        "content": "Harga Minyak Naik US$ 1, Defisit APBN Bisa Bengkak Rp 6,8 Triliun — <img src=\"https://akcdn.detik.net.id/community/media/visual/2016/02/05/f62ba15e-c049-48e7-b105-4b3122affc15_169.jpg?w=360&q=90\"/> Wamenkeu Juda Agung menyatakan setiap kenaikan harga minyak US$ 1 dapat menambah defisit Rp 6,8 triliun.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/energi/d-8385206/harga-minyak-naik-us-1-defisit-apbn-bisa-bengkak-rp-6-8-triliun",
+        "scrapedAt": "2026-03-05T05:12:44.000Z"
+      },
+      {
+        "id": "4454c68f-19ec-494f-8962-68cbf3796c2c",
+        "content": "Menteri UMKM Sebut Konsumsi Domestik Bisa buat Redam Dampak Perang Timur Tengah — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/02/10/menteri-umkm-maman-abdurrahman-1770699475133_169.jpeg?w=360&q=90\"/> Ketidakpastian global semakin meningkat seiring memanasnya konflik di Timur Tengah.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385158/menteri-umkm-sebut-konsumsi-domestik-bisa-buat-redam-dampak-perang-timur-tengah",
+        "scrapedAt": "2026-03-05T05:05:53.000Z"
+      },
+      {
+        "id": "70901ecd-2b6d-47dc-92f1-52857f92d3dc",
+        "content": "Pengusaha Penyeberangan Ngeluh Kapal Tak Beroperasi Optimal, Ini Penyebabnya — <img src=\"https://akcdn.detik.net.id/community/media/visual/2022/12/29/ilustrasi-syarat-menyeberang-pelabuhan-merak-1_169.jpeg?w=360&q=90\"/> Pengusaha angkutan penyeberangan mengeluhkan kondisi kapal feri yang tidak dapat beroperasi secara optimal. Banyak kapal justru tidak bisa mengangkut penumpang.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385162/pengusaha-penyeberangan-ngeluh-kapal-tak-beroperasi-optimal-ini-penyebabnya",
+        "scrapedAt": "2026-03-05T04:57:36.000Z"
+      },
+      {
+        "id": "6c7f4c43-6bb4-4ec1-8f82-0f58db30949a",
+        "content": "Laba Lagi Tinggi, Bank Terkenal Ini Malah PHK 2.500 Karyawan — <img src=\"https://akcdn.detik.net.id/community/media/visual/2023/05/03/gegara-krisis-bank-as-morgan-stanley-bakal-phk-3000-karyawa-4_169.jpeg?w=360&q=90\"/> Morgan Stanley melakukan PHK massal 2.500 karyawan meski mencatat kinerja rekor. Pemangkasan ini menyasar divisi utama perbankan.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385143/laba-lagi-tinggi-bank-terkenal-ini-malah-phk-2-500-karyawan",
+        "scrapedAt": "2026-03-05T04:50:55.000Z"
+      },
+      {
+        "id": "fb39d3ab-4909-4c24-92cd-b7fceefc4b8a",
+        "content": "Asuransi Digital Makin Mudah Diakses, Perlindungan hingga Rp100 Juta — <img src=\"https://akcdn.detik.net.id/community/media/visual/2022/02/04/ilustrasi-asuransi_169.jpeg?w=360&q=90\"/> PT Asuransi BRI Life mengenalkan produk Asuransi Digital atau Mobile Digital Insurance (MODI) yang menghadirkan perlindungan fleksibel dan mudah diakses.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/moneter/d-8385096/asuransi-digital-makin-mudah-diakses-perlindungan-hingga-rp100-juta",
+        "scrapedAt": "2026-03-05T04:31:53.000Z"
+      },
+      {
+        "id": "f759f4fe-0d65-4cb1-bc8d-efd4ca1a9f4a",
+        "content": "Mentan Wanti-wanti Pengusaha yang Berani Mainkan Harga Daging-Minyak Goreng — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/02/20/menteri-pertanian-mentan-andi-amran-sulaiman-langsung-turun-ke-lapangan-usai-menerima-laporan-kenaikan-harga-dari-masyarakat-1771585918867_169.png?w=360&q=90\"/> Menurutnya, kenaikan harga pangan tersebut adanya indikasi permainan di rantai distribusi.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385093/mentan-wanti-wanti-pengusaha-yang-berani-mainkan-harga-daging-minyak-goreng",
+        "scrapedAt": "2026-03-05T04:29:56.000Z"
+      },
+      {
+        "id": "b54aac11-a669-46c7-88d1-717d477d38dc",
+        "content": "Aset Kripto Bergairah, Harga Bitcoin Tembus Rp 1,2 M — <img src=\"https://akcdn.detik.net.id/community/media/visual/2024/11/07/ilustrasi-bitcoin_169.jpeg?w=360&q=90\"/> Bitcoin menguat 6,68% sepanjang perdagangan 24 jam terakhir ke harga US$ 72.737 atau Rp 1,22 miliar (kurs Rp 16.877).",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/fintech/d-8385010/aset-kripto-bergairah-harga-bitcoin-tembus-rp-1-2-m",
+        "scrapedAt": "2026-03-05T03:49:35.000Z"
+      },
+      {
+        "id": "9833b373-b9b5-4e59-93a6-ad887ebead8e",
+        "content": "KKP Setop Reklamasi Ilegal di Laut Morowali, Tiga Perusahaan Terseret — <img src=\"https://akcdn.detik.net.id/community/media/visual/2025/02/10/ilustrasi-ruang-laut_169.jpeg?w=360&q=90\"/> Kementerian Kelautan dan Perikanan menghentikan sementara pemanfaatan ruang laut di Morowali karena pelaku usaha tidak memiliki dokumen PKKPRL.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8385004/kkp-setop-reklamasi-ilegal-di-laut-morowali-tiga-perusahaan-terseret",
+        "scrapedAt": "2026-03-05T03:45:20.000Z"
+      },
+      {
+        "id": "4b0d80ea-d93e-4975-9cff-88c88261686e",
+        "content": "Program UMiMAX Pertamina Bantu Korban PHK Bangkit dengan Usaha Mikro — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/pertamina-1772681568968.jpeg?w=360&q=90\"/> Program UMiMAX Pertamina membantu pelaku usaha ultra mikro bangkit dari keterpurukan. Mereka berbagi 15.000 gelas kopi saat Ramadan.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8384974/program-umimax-pertamina-bantu-korban-phk-bangkit-dengan-usaha-mikro",
+        "scrapedAt": "2026-03-05T03:33:17.000Z"
+      },
+      {
+        "id": "cc2593ae-4ece-4ccd-b4d5-cecc6ee34cdc",
+        "content": "Harga Emas Antam Hari Ini Naik Tipis — <img src=\"https://akcdn.detik.net.id/community/media/visual/2024/09/17/harga-emas-tertinggi-sepanjang-sejarah-antusias-warga-ikut-tinggi-2_169.jpeg?w=360&q=90\"/> Harga emas Antam hari ini naik tipis menjadi Rp 3.049.000 per gram. Rincian harga dari 0,5 gram hingga 1.000 gram juga tersedia. Cek update lengkapnya!",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8384927/harga-emas-antam-hari-ini-naik-tipis",
+        "scrapedAt": "2026-03-05T03:01:35.000Z"
+      },
+      {
+        "id": "b649e3f0-0f20-4aab-b87b-667d2de1079b",
+        "content": "Produksi Sumur Banyu Urip A07 Naik Jadi 12.300 Barel Minyak Per Hari — <img src=\"https://akcdn.detik.net.id/community/media/visual/2026/03/05/ilustrasi-produksi-migas-di-blok-cepu-jawa-tengah-1772678617979.jpeg?w=360&q=90\"/> ExxonMobil Cepu Limited berhasil meningkatkan produksi minyak Sumur Banyu Urip A07 dari 4.800 BOPD menjadi 12.300 BOPD melalui program Water Shut-Off.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/energi/d-8384905/produksi-sumur-banyu-urip-a07-naik-jadi-12-300-barel-minyak-per-hari",
+        "scrapedAt": "2026-03-05T02:43:58.000Z"
+      },
+      {
+        "id": "4297c818-c1cb-4106-a1eb-c71440093eaf",
+        "content": "Dolar AS Turun Tipis ke Rp 16.882 — <img src=\"https://akcdn.detik.net.id/community/media/visual/2025/09/26/dolar-as-ngamuk-pagi-ini-tembus-rp-16789-1758861141962_169.jpeg?w=360&q=90\"/> Dolar Amerika Serikat (AS) melemah terhadap rupiah pada pembukaan perdagangan hari ini.",
+        "source": "news",
+        "tags": ["detik-finance"],
+        "url": "https://finance.detik.com/moneter/d-8384903/dolar-as-turun-tipis-ke-rp-16-882",
+        "scrapedAt": "2026-03-05T02:40:59.000Z"
+      },
+      {
+        "id": "ecc636e0-538a-4b5c-aa00-13d37f433581",
+        "content": "Ketua PP Muhammadiyah: Lebih Baik Indonesia Mundur dari BoP — Ketua PP Muhammadiyah mengatakan Indonesia adalah bangsa yang antipenjajahan, tetapi Trump mendukung penjajahan Israel terhadap Palestina.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090774/ketua-pp-muhammadiyah-lebih-baik-indonesia-mundur-dari-bop",
+        "scrapedAt": "2026-03-05T06:26:00.000Z"
+      },
+      {
+        "id": "cc267365-155a-4ba5-935f-1bb63a966274",
+        "content": "Pemerintah Perkirakan PMI di Iran Mencapai Ratusan — Pemerintah menyatakan tidak banyak warga negara Indonesia yang bekerja di Iran.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090770/pemerintah-perkirakan-pmi-di-iran-mencapai-ratusan",
+        "scrapedAt": "2026-03-05T05:44:24.000Z"
+      },
+      {
+        "id": "751851f7-c25e-4439-aae2-bb9be9bc8377",
+        "content": "OTT Bupati Pekalongan, Ahmad Luthfi: Ini Jadi Pembelajaran — Gubernur Jawa Tengah Ahmad Luthfi menjelaskan pertemuannya dengan Bupati Pekalongan Fadia Arafiq tidak terjadi pada saat OTT KPK.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090767/ott-bupati-pekalongan-ahmad-luthfi-ini-jadi-pembelajaran",
+        "scrapedAt": "2026-03-05T05:18:39.000Z"
+      },
+      {
+        "id": "66f42c67-79d9-4dce-bd6b-94cbd025e2c2",
+        "content": "Pemkot Cilegon Buka Program Mudik Gratis, Daftar via Aplikasi Cilegon Juare — Program mudik gratis ini menjadi bentuk pelayanan Pemerintah Kota Cilegon kepada masyarakat sekaligus membantu warga yang ingin pulang ke kampung halaman dengan aman dan nyaman saat momentum Lebaran.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090765/pemkot-cilegon-buka-program-mudik-gratis-daftar-via-aplikasi-cilegon-juare",
+        "scrapedAt": "2026-03-05T05:05:53.000Z"
+      },
+      {
+        "id": "ece6a313-b612-4d4a-8709-7b67703b5716",
+        "content": "10.060 Jemaah Umrah Tiba di Indonesia Usai Perang di TimTeng — Total jemaah umrah yang pulang sejak 28 Februari 2026 hingga 3 Maret 2026 sebanyak 10.060 orang.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090763/10-060-jemaah-umrah-tiba-di-indonesia-usai-perang-di-timteng",
+        "scrapedAt": "2026-03-05T04:49:30.000Z"
+      },
+      {
+        "id": "ae3a51aa-30f0-431d-aad6-5a457c702965",
+        "content": "Pemkot Semarang Lakukan Perbaikan Darurat Usai Tanggul Sungai Plumbon Jebol — Agustina menjelaskan bahwa penanganan fisik sungai tersebut merupakan kewenangan Balai Besar Wilayah Sungai (BBWS). Meski demikian, Pemkot Semarang tetap bertanggung jawab dalam upaya pembersihan dan perbaikan darurat bagi warga terdampak.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090760/pemkot-semarang-lakukan-perbaikan-darurat-usai-tanggul-sungai-plumbon-jebol",
+        "scrapedAt": "2026-03-05T04:25:12.000Z"
+      },
+      {
+        "id": "55172f54-734c-4301-a44e-df9287aec102",
+        "content": "Gibran: AI Penting untuk Menunjang Kegiatan Belajar — Gibran mengatakan kerap mengunjungi sejumlah sekolah untuk memperkenalkan literasi AI kepada pelajar dan peserta didik.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090759/gibran-ai-penting-untuk-menunjang-kegiatan-belajar",
+        "scrapedAt": "2026-03-05T04:24:53.000Z"
+      },
+      {
+        "id": "5bfc09fb-d967-4063-9751-1e7f748093c7",
+        "content": "Prabowo Undang Ormas Islam Buka Puasa di Istana Hari Ini — Selain tokoh ormas Islam, Prabowo juga mengundang pimpinan pondok pesantren.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090757/prabowo-undang-ormas-islam-buka-puasa-di-istana-hari-ini",
+        "scrapedAt": "2026-03-05T04:20:46.000Z"
+      },
+      {
+        "id": "44aeff71-99f1-4440-8461-aef38536c335",
+        "content": "Mensos Dorong Sekolah Rakyat Masuk Prioritas Papua Barat — Mensos meminta pembangunan Sekolah Rakyat menjadi prioritas di Papua Barat, mengingat pendidikan menjadi salah satu jalan memutus rantai kemiskinan.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090749/mensos-dorong-sekolah-rakyat-masuk-prioritas-papua-barat",
+        "scrapedAt": "2026-03-05T03:56:57.000Z"
+      },
+      {
+        "id": "8e1a2723-6164-4ff8-b26f-1aaa96f163d7",
+        "content": "Belasan Titik Jalur Mudik di Yogyakarta Rawan Longsor — Pemetaan lokasi rawan longsor dilakukan untuk mengantisipasi cuaca ekstrem yang berpotensi terjadi pada masa mudik Lebaran 2026.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090742/belasan-titik-jalur-mudik-di-yogyakarta-rawan-longsor",
+        "scrapedAt": "2026-03-05T03:35:09.000Z"
+      },
+      {
+        "id": "eba9b0f3-fe41-4b94-a535-c9ed8138db7f",
+        "content": "Undip Bentuk Tim Selidiki Kasus Pengeroyokan Mahasiswanya — Mahasiswa Undip dikeroyok oleh 30 seniornya. Undip membentuk tim guna mendalami kasus tersebut.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090736/undip-bentuk-tim-selidiki-kasus-pengeroyokan-mahasiswanya",
+        "scrapedAt": "2026-03-05T03:17:27.000Z"
+      },
+      {
+        "id": "cc0ef4d1-3c12-4449-adce-9aa62fe929ce",
+        "content": "Hormati Nyepi, ASDP Tutup Sementara Lintasan Jawa-Bali-Lombok — PT ASDP Indonesia Ferry menghentikan sementara layanan penyeberangan Jawa-Bali-Lombok selama Nyepi, di tengah lonjakan Angkutan Lebaran 2026. Pemerintah menyiapkan rute alternatif, buffer zone, dan penambahan kapal untuk mengantisipasi kepadatan serta cuaca ekstrem.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090730/hormati-nyepi-asdp-tutup-sementara-lintasan-jawa-bali-lombok",
+        "scrapedAt": "2026-03-05T02:41:00.000Z"
+      },
+      {
+        "id": "772f93ea-aa6f-482a-b4d3-e698963e1551",
+        "content": "Aliansi Unpad Minta Prabowo Keluar dari BoP — Prabowo diminta keluar dari BoP hingga batalkan perjanjian dagang dengan AS.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090728/aliansi-unpad-minta-prabowo-keluar-dari-bop",
+        "scrapedAt": "2026-03-05T02:21:27.000Z"
+      },
+      {
+        "id": "85c4ff4b-c8dc-4346-a05c-8b5d68c4ca5c",
+        "content": "Dedi Mulyadi Buka Hotline untuk Warga Jabar di Timteng — Dedi Mulyadi mengatakan bagi warga Jabar yang berada di Timur Tengah dan membutuhkan bantuan bisa menghubungi nomor telepon 082126030038.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090713/dedi-mulyadi-buka-hotline-untuk-warga-jabar-di-timteng",
+        "scrapedAt": "2026-03-05T01:26:42.000Z"
+      },
+      {
+        "id": "6d5d1858-c015-4111-b681-dc70f70dfa88",
+        "content": "Aliansi Mahasiswa UI Desak Prabowo Keluar dari BoP — Aliansi Mahasiswa UI menilai keikutsertaan Indonesia dalam BoP bertentangan dengan konstitusi. Penilaian diperkuat dengan tindakan AS yang memicu perang di Kawasan Teluk.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090708/aliansi-mahasiswa-ui-desak-prabowo-keluar-dari-bop",
+        "scrapedAt": "2026-03-05T00:33:01.000Z"
+      },
+      {
+        "id": "09079592-4d84-4fc9-b918-11651db9d614",
+        "content": "Ramai-ramai Minta Indonesia Keluar dari BoP — Desakan kepada pemerintah untuk segera menarik diri dari keanggotaan BoP kian menggema usai AS-Israel melancarkan operasi militer ke wilayah Iran.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090704/ramai-ramai-minta-indonesia-keluar-dari-bop",
+        "scrapedAt": "2026-03-04T23:54:19.000Z"
+      },
+      {
+        "id": "de1aa9af-455a-4779-8ea5-8814bc14f5a7",
+        "content": "Top Nasional: Ucapan Prabowo untuk Khamenei hingga BoP — Rangkuman berita terpopuler di kanal nasional Tempo hingga Kamis, dini hari tadi. Ucapan duka Prabowo untuk wafatnya Khamenei hingga keanggaan di BoP.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090703/top-nasional-ucapan-prabowo-untuk-khamenei-hingga-bop",
+        "scrapedAt": "2026-03-04T23:44:42.000Z"
+      },
+      {
+        "id": "e86c9115-de8c-4fbe-a32f-0cba0a253ed3",
+        "content": "Penyebab Gaji Guru Turun Tahun Ini — Penurunan transfer daerah berdampak terhadap gaji yang diterima guru.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090702/penyebab-gaji-guru-turun-tahun-ini",
+        "scrapedAt": "2026-03-04T23:38:02.000Z"
+      },
+      {
+        "id": "0ee5f9ff-df3b-46ac-bf31-b68560181504",
+        "content": "Prabowo Absen Buka Puasa Demokrat, AHY: Kurang Enak Badan — Dalam acara itu, pembawa acara juga sempat menyampaikan permohonan maaf dari Prabowo.",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090680/prabowo-absen-buka-puasa-demokrat-ahy-kurang-enak-badan",
+        "scrapedAt": "2026-03-04T15:51:00.000Z"
+      },
+      {
+        "id": "765d112c-6b2d-4a9e-b0d2-975b008b74ae",
+        "content": "Pengumuman Seleksi Jabatan Dirjen Imigrasi dan Kepala BPSDM Kemenimipas — Kementerian Imigrasi dan Pemasyarakatan RI (Kemenimipas) mengumumkan seleksi terbuka untuk jabatan Direktur Jenderal Imigrasi dan Kepala Badan Pengembangan Sumber Daya Manusia (Kepala BPSDM).",
+        "source": "news",
+        "tags": ["tempo-national"],
+        "url": "https://nasional.tempo.co/read/2090677/pengumuman-seleksi-jabatan-dirjen-imigrasi-dan-kepala-bpsdm-kemenimipas",
+        "scrapedAt": "2026-03-04T14:48:27.000Z"
+      },
+      {
+        "id": "1f2168bd-677e-481e-8527-69c39e6a5b41",
+        "content": "Profil Calon Anggota Dewan Komisioner OJK yang Lolos Seleksi — Panitia seleksi pemilihan calon pengganti Anggota Dewan Komisioner Otoritas Jasa Keuangan (OJK) telah mengumumkan 20 nama yang lulus seleksi.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090769/profil-calon-anggota-dewan-komisioner-ojk-yang-lolos-seleksi",
+        "scrapedAt": "2026-03-05T05:32:44.000Z"
+      },
+      {
+        "id": "b852ca2a-e620-49f3-8420-eff3b98359ba",
+        "content": "Gubernur BI Respons Penurunan Outlook Utang RI oleh Fitch — Gubernur Bank Indonesia (BI) Perry Warjiyo mengklaim prospek perekonomian Indonesia tetap kuat dan berdaya tahan.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090762/gubernur-bi-respons-penurunan-outlook-utang-ri-oleh-fitch",
+        "scrapedAt": "2026-03-05T04:47:07.000Z"
+      },
+      {
+        "id": "07e2d7d7-30a5-4749-a896-acaebddcf349",
+        "content": "Harga Emas Antam Naik Tipis Menjadi Rp 3.049.000 per Gram — Harga emas batangan keluaran PT Aneka Tambang (Persero) Tbk. atau Antam naik Rp 4.000 dibanding hari sebelumnya.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090741/harga-emas-antam-naik-tipis-menjadi-rp-3-049-000-per-gram",
+        "scrapedAt": "2026-03-05T03:32:35.000Z"
+      },
+      {
+        "id": "42389045-5a28-49f7-b48d-3991c2feedf4",
+        "content": "Realisasi Investasi Sumut Terus Meningkat 3 Tahun Terakhir — Pada 2025, realisasi investasi kembali naik menjadi Rp 58,5 triliun, 60.133 tenaga kerja, melebihi target Badan Koordinasi Penanaman Modal (BKPM) sebesar Rp 53,67 triliun",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090731/realisasi-investasi-sumut-terus-meningkat-3-tahun-terakhir",
+        "scrapedAt": "2026-03-05T02:49:45.000Z"
+      },
+      {
+        "id": "87068fc1-d916-451a-9275-0749d164218e",
+        "content": "Performa Industri Pariwisata Yogyakarta di Awal Tahun Turun — Memasuki awal tahun 2026, industri pariwisata di Daerah Istimewa Yogyakarta (DIY) mencatatkan penurunan performa.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090723/performa-industri-pariwisata-yogyakarta-di-awal-tahun-turun",
+        "scrapedAt": "2026-03-05T01:56:49.000Z"
+      },
+      {
+        "id": "ae79d1bb-8a43-4dd6-8eb8-576596076977",
+        "content": "ASDP Hentikan Penyeberangan di Jawa-Bali-Lombok saat Nyepi — PT ASDP Indonesia Ferry (Persero) akan menghentikan sementara layanan penyeberangan di lintasan Jawa-Bali dan Lombok saat Hari Raya Nyepi.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090712/asdp-hentikan-penyeberangan-di-jawa-bali-lombok-saat-nyepi",
+        "scrapedAt": "2026-03-05T01:24:26.000Z"
+      },
+      {
+        "id": "fccafc32-aa27-44b0-ae0a-db00921ee4b8",
+        "content": "Jaga Stok Emas, Antam Kerja Sama dengan Grup Merdeka — Antam menjalin kerja sama pasokan bahan baku industri emas domestik dengan volume transaksi 6 metrik ton emas per tahun.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090679/jaga-stok-emas-antam-kerja-sama-dengan-grup-merdeka",
+        "scrapedAt": "2026-03-04T20:25:00.000Z"
+      },
+      {
+        "id": "70c739c8-b1e8-4190-84cc-9a2fbbca618c",
+        "content": "41.084 Wisman Gunakan KAI Selama Februari 2026 — Jumlah wisatawan mancanegara yang memanfaatkan kereta api KAI mengalami kenaikan dalam tiga tahun terakhir.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090638/41-084-wisman-gunakan-kai-selama-februari-2026",
+        "scrapedAt": "2026-03-04T14:07:00.000Z"
+      },
+      {
+        "id": "a02b69d1-0b92-483f-81a0-d392cb1b5fae",
+        "content": "Tiket Kereta Api Lebaran KAI Yogyakarta Terjual 50 Persen — PT KAI Daerah Operasi 6 Yogyakarta mencatat angka penjualan tiket Angkutan Lebaran 2026 telah menyentuh angka 50 persen dari total kapasitas yang disediakan.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090655/tiket-kereta-api-lebaran-kai-yogyakarta-terjual-50-persen",
+        "scrapedAt": "2026-03-04T13:04:31.000Z"
+      },
+      {
+        "id": "26f0642d-1c23-469b-9089-9a7dd147a0fc",
+        "content": "RI Butuh Storage Baru untuk Cadangan BBM 3 Bulan — Menteri ESDM menyatakan Presiden Prabowo meminta membangun storage BBM untuk memperkuat ketahanan energi nasional.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090651/ri-butuh-storage-baru-untuk-cadangan-bbm-3-bulan",
+        "scrapedAt": "2026-03-04T12:33:10.000Z"
+      },
+      {
+        "id": "ee4422a7-b11f-4bcb-86a3-543351f3058f",
+        "content": "Kemenkeu Tanggapi Pemangkasan Outlook Utang RI oleh Fitch — Fitch akan mengembalikan outlook Indonesia ke stabil jika stabilitas makroekonomi terwujud melalui konsistensi disiplin kebijakan.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090650/kemenkeu-tanggapi-pemangkasan-outlook-utang-ri-oleh-fitch",
+        "scrapedAt": "2026-03-04T12:31:00.000Z"
+      },
+      {
+        "id": "76f2d7db-ac9d-4c4c-a114-c87dc40951da",
+        "content": "Sempat Tertahan, 120 Jamaah Umrah Solo Sudah Kembali — Sebanyak 120 jamaah umrah asal Kota Solo yang sempat tertahan kepulangannya imbas konflik Timur Tengah, kini telah kembali ke Tanah Air.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090646/sempat-tertahan-120-jamaah-umrah-solo-sudah-kembali",
+        "scrapedAt": "2026-03-04T11:04:13.000Z"
+      },
+      {
+        "id": "893e019c-23dd-43a9-a287-716c248b393c",
+        "content": "Respons Mirae Asset Sekuritas usai Kantornya Digeledah OJK — PT Mirae Asset Sekuritas Indonesia menjamin bahwa seluruh aktivitas bisnis tetap berlangsung seusai penggeledahan oleh OJK.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090644/respons-mirae-asset-sekuritas-usai-kantornya-digeledah-ojk",
+        "scrapedAt": "2026-03-04T10:56:34.000Z"
+      },
+      {
+        "id": "7c1f54de-4cdb-4ef4-bb49-5f336fd82f40",
+        "content": "Rupiah Ditutup Melemah di Level Rp 16.892 per Dolar AS — Nilai tukar rupiah melemah 20 poin dari penutupan hari sebelumnya yang berada di level Rp 16.872 per dolar AS.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090637/rupiah-ditutup-melemah-di-level-rp-16-892-per-dolar-as",
+        "scrapedAt": "2026-03-04T10:39:10.000Z"
+      },
+      {
+        "id": "7cca134b-0ccd-4abb-a11e-a4febacda8c9",
+        "content": "Mudik Lebaran 2026: Pertamina Siapkan 7.885 SPBU — Pertamina Patra Niaga juga menyiapkan 6.662 agen LPG, termasuk sekitar 6.300 agen yang beroperasi selama 24 jam.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090621/mudik-lebaran-2026-pertamina-siapkan-7-885-spbu",
+        "scrapedAt": "2026-03-04T10:25:00.000Z"
+      },
+      {
+        "id": "dff6abf8-c3ac-4dd5-a410-041308bb605e",
+        "content": "Bahlil Beberkan Stok BBM Jepang 254 Hari, RI Hanya 25 Hari — Bahlil menjelaskan ketimpangan stok tersebut disebabkan oleh terbatasnya storage atau penyimpanan BBM yang dimiliki oleh Indonesia.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090624/bahlil-beberkan-stok-bbm-jepang-254-hari-ri-hanya-25-hari",
+        "scrapedAt": "2026-03-04T10:05:38.000Z"
+      },
+      {
+        "id": "e24774e5-93e5-48c7-af51-485559d45a4d",
+        "content": "OJK Geledah Sekuritas, Diduga Terlibat Kasus Pasar Modal — OJK menemukan dugaan pidana modus insider trading, manipulasi IPO, dan transaksi semu yang melibatkan perusahaan sekuritas.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090616/ojk-geledah-sekuritas-diduga-terlibat-kasus-pasar-modal",
+        "scrapedAt": "2026-03-04T09:50:00.000Z"
+      },
+      {
+        "id": "5828c6fb-efd9-4ef9-8bfb-f95962364918",
+        "content": "BNI Dorong Akses Hunian Layak di Singkawang — Sebanyak 200 peserta mengikuti akad KPP dan FLPP bersama BNI dalam kolaborasi pembiayaan perumahan dan pemberdayaan ekonomi rakyat di Singkawang.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090622/bni-dorong-akses-hunian-layak-di-singkawang",
+        "scrapedAt": "2026-03-04T09:49:52.000Z"
+      },
+      {
+        "id": "5a81c9ca-0d83-4161-8924-2d4999c5596e",
+        "content": "Laporan SPT Lewat Coretax Sudah 40 Persen dari Target — 5,7 juta wajib pajak sudah melapor SPT tahunan lewat Coretax. Aktivasi Coretax tembus 15 juta",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090589/laporan-spt-lewat-coretax-sudah-40-persen-dari-target",
+        "scrapedAt": "2026-03-04T09:11:00.000Z"
+      },
+      {
+        "id": "7668ce7e-8c3d-45be-b1a2-5e68b752ebc9",
+        "content": "Mengapa APBN Bisa Defisit Bila Perang AS Versus Iran Meluas — APBN berisiko defisit bila harga minyak dunia terus melonjak.",
+        "source": "news",
+        "tags": ["tempo-business"],
+        "url": "https://bisnis.tempo.co/read/2090601/mengapa-apbn-bisa-defisit-bila-perang-as-versus-iran-meluas",
+        "scrapedAt": "2026-03-04T08:44:27.000Z"
+      },
+      {
+        "id": "c0b28c02-2d21-46e6-8bdf-18e282a11121",
+        "content": "Putri Gus Dur-Ketua BEM UGM Hadiri Sidang Vonis Botok dkk di Pati — <img src=\"https://akcdn.detik.net.id/visual/2026/03/05/putri-gus-dur-di-pn-pati-1772691202212_169.jpeg?w=360&amp;q=90\"/> Putri Gus Dur, Inayah Wahid, dan Ketua BEM UGM, Tiyo Ardianto, hadir di PN Pati untuk mendukung terdakwa Botok dan Teguh dalam persidangan pemblokiran jalan",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305131116-12-1334627/putri-gus-dur-ketua-bem-ugm-hadiri-sidang-vonis-botok-dkk-di-pati",
+        "scrapedAt": "2026-03-05T06:51:07.000Z"
+      },
+      {
+        "id": "9fd442a1-4f12-407a-b75c-8213c1407234",
+        "content": "MKMK Putuskan Tak Berwenang Adili Laporan Etik Adies Kadir — <img src=\"https://akcdn.detik.net.id/visual/2026/02/05/presiden-prabowo-lantik-hakim-mk-dan-wakil-menteri-keuangan-1770289876348_169.jpeg?w=360&amp;q=90\"/> MKMK memutuskan tidak berwenang mengadili dugaan pelanggaran kode etik Hakim Konstitusi Adies Kadir.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305132158-12-1334633/mkmk-putuskan-tak-berwenang-adili-laporan-etik-adies-kadir",
+        "scrapedAt": "2026-03-05T06:30:43.000Z"
+      },
+      {
+        "id": "ba5ee55c-752e-4d0e-9979-718ec547fe12",
+        "content": "Terdampar di Doha, Wamen HAM Enggan Pulang Cari Selamat Sendiri — <img src=\"https://akcdn.detik.net.id/visual/2025/08/12/wamen-ham-sebut-tak-akan-ada-lagi-razia-bendera-dan-mural-one-piece-1754984537988_169.png?w=360&amp;q=90\"/> Wakil Menteri Hak Asasi Manusia (HAM) Mugiyanto masih berada Doha, Qatar, setelah penerbangannya tertunda imbas konflik di kawasan Timur Tengah.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305131356-20-1334628/terdampar-di-doha-wamen-ham-enggan-pulang-cari-selamat-sendiri",
+        "scrapedAt": "2026-03-05T06:21:07.000Z"
+      },
+      {
+        "id": "0de22867-5d9b-4d2e-8d23-519dcaf1f896",
+        "content": "Kodam Udayana Telusuri Tersangka Pemerkosaan Lolos Seleksi TNI — <img src=\"https://akcdn.detik.net.id/visual/2021/03/30/apel-patroli-skala-besar-tni-polri_169.jpeg?w=360&amp;q=90\"/> Kodam IX/Udayana menyelidiki ADO, prajurit TNI AD yang tersangka pemerkosaan. TNI menegaskan komitmen terhadap hukum dan integritas prajurit.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305123328-20-1334621/kodam-udayana-telusuri-tersangka-pemerkosaan-lolos-seleksi-tni",
+        "scrapedAt": "2026-03-05T06:14:08.000Z"
+      },
+      {
+        "id": "ef36dec9-044e-4a7c-85dc-d8da701b0911",
+        "content": "Prabowo Undang Ulama-Pimpinan Ormas Islam ke Istana Malam Ini — <img src=\"https://akcdn.detik.net.id/visual/2026/03/04/silahturahmi-presiden-prabowo-dengan-mantan-presiden-1772559023421_169.jpeg?w=360&amp;q=90\"/> Presiden RI Prabowo Subianto mengundang ulama, pimpinan ormas Islam, hingga pimpinan pondok pesantren ke Istana Kepresidenan Jakarta, Kamis (5/3).",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305130030-32-1334624/prabowo-undang-ulama-pimpinan-ormas-islam-ke-istana-malam-ini",
+        "scrapedAt": "2026-03-05T06:04:25.000Z"
+      },
+      {
+        "id": "a478079b-478a-415c-a4db-362925fae87b",
+        "content": "Rincian Pembagian Cuan Fadia-Anak-Suami di Kasus Pengadaan Pekalongan — <img src=\"https://akcdn.detik.net.id/visual/2026/03/03/bupati-pekalongan-fadia-arafiq-1772521564856_169.png?w=360&amp;q=90\"/> KPK menetapkan Bupati Pekalongan Fadia Arafiq sebagai tersangka korupsi pengadaan outsourcing. Keluarga Fadia diduga menikmati keuntungan hingga Rp19 miliar.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305121615-12-1334609/rincian-pembagian-cuan-fadia-anak-suami-di-kasus-pengadaan-pekalongan",
+        "scrapedAt": "2026-03-05T05:44:48.000Z"
+      },
+      {
+        "id": "65a0be74-f887-45cb-8e0b-65455b577823",
+        "content": "Rieke PDIP Desak RUU PPRT Disahkan Usai Tertahan 2 Dekade — <img src=\"https://akcdn.detik.net.id/visual/2017/10/16/e8fb64c9-6109-4522-bf40-4235dfe82596_169.jpg?w=360&amp;q=90\"/> Rieke Diah Pitaloka mengungkap lima isu krusial dalam RUU Perlindungan Pekerja Rumah Tangga. RUU ini harus segera disahkan setelah 22 tahun menunggu.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305122040-32-1334610/rieke-pdip-desak-ruu-pprt-disahkan-usai-tertahan-2-dekade",
+        "scrapedAt": "2026-03-05T05:33:36.000Z"
+      },
+      {
+        "id": "db62540c-ec4a-427c-94dc-2bf24d20f366",
+        "content": "Ledakan Besar di Sumenep, Dua Rumah Rusak-Tiga Orang Luka — <img src=\"https://akcdn.detik.net.id/visual/2019/12/03/ddf27c38-25e5-4824-b89f-e979b73f7b22_169.jpeg?w=360&amp;q=90\"/> Ledakan keras mengguncang Desa Bantelan, Sumenep, menyebabkan dua rumah rusak dan tiga warga terluka. Polisi sedang menyelidiki penyebabnya.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305113353-12-1334607/ledakan-besar-di-sumenep-dua-rumah-rusak-tiga-orang-luka",
+        "scrapedAt": "2026-03-05T05:15:46.000Z"
+      },
+      {
+        "id": "c94b34c5-cda7-4a30-9506-067246dccfb5",
+        "content": "Bareskrim Gerebek Rumah Produksi Kosmetik Ilegal LC Beauty di Cirebon — <img src=\"https://akcdn.detik.net.id/visual/2026/03/05/bareskrim-gerebek-rumah-produksi-kosmetik-ilegal-lc-beauty-berbahan-merkuri-di-cirebon-1772682452227_169.jpeg?w=360&amp;q=90\"/> Bareskrim Polri menggerebek home industry kosmetik ilegal di Cirebon. Produk mengandung merkuri dan hidroquinone, pemilik terancam 12 tahun penjara.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305112708-12-1334586/bareskrim-gerebek-rumah-produksi-kosmetik-ilegal-lc-beauty-di-cirebon",
+        "scrapedAt": "2026-03-05T04:59:43.000Z"
+      },
+      {
+        "id": "193098d6-aed6-45e5-82e9-b6e63ef15555",
+        "content": "KPK: Uang Korupsi Bupati Pekalongan Bisa Bangun 400 Rumah — <img src=\"https://akcdn.detik.net.id/visual/2026/03/03/bupati-pekalongan-fadia-arafiq-1772521564748_169.png?w=360&amp;q=90\"/> KPK ungkap dugaan korupsi Bupati Pekalongan Fadia Arafiq, dengan Rp46 miliar yang bisa membangun infrastruktur. Fadia kini jadi tersangka dan ditahan.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305112859-12-1334588/kpk-uang-korupsi-bupati-pekalongan-bisa-bangun-400-rumah",
+        "scrapedAt": "2026-03-05T04:36:24.000Z"
+      },
+      {
+        "id": "01cb0301-33be-46e0-8af7-23a264461ab4",
+        "content": "Amiruddin Diangkat Jadi Anggota Komnas HAM Gantikan Hari Kurniawan — <img src=\"https://akcdn.detik.net.id/visual/2018/12/05/e3cc96f6-a9ad-4a73-9d03-6181e70c1dd6_169.jpeg?w=360&amp;q=90\"/> Amiruddin Al Rahab resmi diangkat sebagai anggota Komnas HAM untuk periode 2022-2027, menggantikan Hari Kurniawan yang mengundurkan diri.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305111931-12-1334584/amiruddin-diangkat-jadi-anggota-komnas-ham-gantikan-hari-kurniawan",
+        "scrapedAt": "2026-03-05T04:31:30.000Z"
+      },
+      {
+        "id": "8bb0494c-3475-408c-8cc4-5ef9b9cfc4ea",
+        "content": "Dua Aktivis Pati Botok dan Teguh Hadapi Sidang Vonis Hari Ini — <img src=\"https://akcdn.detik.net.id/visual/2025/12/24/terdakwa-supriyono-alias-botok-usai-jalani-sidang-perdana-di-pn-pati-1766571891397_169.jpeg?w=360&amp;q=90\"/> Dua aktivis AMPB, Supriyono alias Botok dan Teguh, menjalani sidang putusan di PN Pati. Mereka dipenjarakan karena aksi blokade jalan saat demo Pati.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305104830-12-1334565/dua-aktivis-pati-botok-dan-teguh-hadapi-sidang-vonis-hari-ini",
+        "scrapedAt": "2026-03-05T04:06:30.000Z"
+      },
+      {
+        "id": "9e497567-1f0a-48e3-be1a-b84ca313ce9a",
+        "content": "Alasan KPK Belum Jerat Anak Suami Bupati Pekalongan — <img src=\"https://akcdn.detik.net.id/visual/2026/03/04/bupati-pekalongan-fadia-arafiq-ott-kpk-1772605762027_169.jpeg?w=360&amp;q=90\"/> Bupati Pekalongan Fadia Arafiq jadi tersangka korupsi pengadaan. Ia bersama anak dan suaminya yang merupakan anggota dewan nikmati Rp19 M dari proyek tersebut.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305100149-12-1334544/alasan-kpk-belum-jerat-anak-suami-bupati-pekalongan",
+        "scrapedAt": "2026-03-05T03:19:18.000Z"
+      },
+      {
+        "id": "073220f8-9c35-4ae0-9bee-a48ead72a57d",
+        "content": "Diduga Curi Labu Siam, Lansia di Cianjur Tewas Usai Dianiaya Tetangga — <img src=\"https://akcdn.detik.net.id/visual/2018/08/24/ca0b6319-3d8e-4930-997e-f25dd1479c26_169.jpeg?w=360&amp;q=90\"/> Seorang warga Kampung Bayabang, Cugenang, tewas setelah dianiaya tetangganya karena mencuri labu siam. Pelaku kini ditahan untuk proses hukum.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305091908-12-1334518/diduga-curi-labu-siam-lansia-di-cianjur-tewas-usai-dianiaya-tetangga",
+        "scrapedAt": "2026-03-05T03:08:20.000Z"
+      },
+      {
+        "id": "f52246b9-8a61-4798-8a11-5a647b7b0d17",
+        "content": "Hujan Angin Terjadi di Sejumlah Kota Pulau Jawa, Ada Korban Tewas — <img src=\"https://akcdn.detik.net.id/visual/2022/02/18/ilustrasi-cuaca-buruk-4_169.jpeg?w=360&amp;q=90\"/> BMKG sebelumnya menelurkan peringatan dini tiga bibit siklon tropis berpotensi hujan lebat dan angin kencang di Jawa, Nusa Tenggara, Papua bagian selatan.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305090146-20-1334534/hujan-angin-terjadi-di-sejumlah-kota-pulau-jawa-ada-korban-tewas",
+        "scrapedAt": "2026-03-05T02:57:17.000Z"
+      },
+      {
+        "id": "8bcf7077-0bb5-43cd-95fa-72b247423279",
+        "content": "Polres Pelabuhan Tanjung Priok Selidiki Pembuat Surat Permintaan THR — <img src=\"https://akcdn.detik.net.id/visual/2022/08/19/penampakan-uang-kertas-baru-tahun-emisi-2022_169.jpeg?w=360&amp;q=90\"/> Polres Pelabuhan Tanjung Priok menyelidiki surat permintaan THR yang beredar. Kapolres menegaskan surat tersebut bukan dari kepolisian.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305090645-12-1334509/polres-pelabuhan-tanjung-priok-selidiki-pembuat-surat-permintaan-thr",
+        "scrapedAt": "2026-03-05T02:31:00.000Z"
+      },
+      {
+        "id": "0ab3983b-8820-4f12-9969-da0c05746643",
+        "content": "KPK: 2 Saksi Kasus Bupati Pati Sudewo Berupaya Hambat Penyidikan — <img src=\"https://akcdn.detik.net.id/visual/2026/01/21/kpk-tahan-bupati-pati-sudewo-1768952997244_169.jpeg?w=360&amp;q=90\"/> KPK memeriksa sejumlah saksi terkait dugaan pemerasan calon perangkat desa dengan tersangka Bupati Pati Sudewo.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305084626-12-1334504/kpk-2-saksi-kasus-bupati-pati-sudewo-berupaya-hambat-penyidikan",
+        "scrapedAt": "2026-03-05T02:07:42.000Z"
+      },
+      {
+        "id": "4f93059b-fe86-42f9-bad5-bdc64ad74910",
+        "content": "Fakta-fakta Kasus Manipulasi Harga Saham BEBS — <img src=\"https://akcdn.detik.net.id/visual/2026/03/04/otoritas-jasa-keuangan-ojk-bersama-polri-menggeledah-kantor-sekuritas-mirae-asset-terkait-dugaan-tindak-pidana-pasar-modal-1772617611906_169.jpeg?w=360&amp;q=90\"/> OJK dan Bareskrim Polri menggeledah kantor Mirae Asset Sekuritas terkait kasus manipulasi harga IPO dan saham gorengan. Dua tersangka telah ditetapkan.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305082555-12-1334493/fakta-fakta-kasus-manipulasi-harga-saham-bebs",
+        "scrapedAt": "2026-03-05T01:47:21.000Z"
+      },
+      {
+        "id": "8f245d17-dca8-4494-8307-4c9e2a99a1d1",
+        "content": "Anggota DPRD di Riau Ditahan karena Ikut Pileg Pakai Ijazah Orang Lain — <img src=\"https://akcdn.detik.net.id/visual/2018/07/09/581badcd-a1c9-488b-a5b9-14a70f0eb064_169.jpeg?w=360&amp;q=90\"/> Penyidik Polres Pelalawan menahan Sunardi, anggota DPRD dari Fraksi Golkar, karena menggunakan ijazah palsu atau memakai ijazah orang lain untuk Pileg 2024.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305083517-12-1334495/anggota-dprd-di-riau-ditahan-karena-ikut-pileg-pakai-ijazah-orang-lain",
+        "scrapedAt": "2026-03-05T01:45:06.000Z"
+      },
+      {
+        "id": "b84453d8-d395-4619-b908-a3221ad650cb",
+        "content": "ABK Fandi Jalani Sidang Vonis Penyelundupan Narkoba di Batam Hari Ini — <img src=\"https://akcdn.detik.net.id/visual/2026/03/05/ibu-abk-fandi-ketakutan-jelang-sidang-vonis-1772672502657_169.jpeg?w=360&amp;q=90\"/> Kasus ABK Fandi Ramadhan dari kapal Sea Dragon memasuki sidang vonis. Ibunya berharap anaknya bebas dari tuntutan mati terkait penyelundupan narkoba.",
+        "source": "news",
+        "tags": ["cnn-national"],
+        "url": "https://www.cnnindonesia.com/nasional/20260305080513-12-1334491/abk-fandi-jalani-sidang-vonis-penyelundupan-narkoba-di-batam-hari-ini",
+        "scrapedAt": "2026-03-05T01:20:08.000Z"
+      },
+      {
+        "id": "744314ff-dcf4-4101-9737-59111afa8d8f",
+        "content": "Baru 4 Hari Perangi Iran, AS Sudah Tekor Rp33 T — <img src=\"https://akcdn.detik.net.id/visual/2026/03/01/balas-kematian-khamenei-iran-serang-pangkalan-militer-as-di-timur-tengah-1772351393091_169.jpeg?w=360&amp;q=90\"/> AS rugi hingga Rp33 triliun cuma dalam empat hari perang melawan Iran. Kerugian AS dihitung dari kehilangan peralatan militer sejak Sabtu (28/2).",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305132329-532-1334634/baru-4-hari-perangi-iran-as-sudah-tekor-rp33-t",
+        "scrapedAt": "2026-03-05T06:48:21.000Z"
+      },
+      {
+        "id": "4f2f3b5d-7fda-4130-af92-b31dbe49b357",
+        "content": "Prabowo Perintahkan Bahlil Kerek Cadangan BBM hingga 3 Bulan — <img src=\"https://akcdn.detik.net.id/visual/2025/02/04/presiden-bertemu-menteri-esdm-di-istana-kepresidenan-2_169.jpeg?w=360&amp;q=90\"/> Prabowo memerintahkan Bahlil untuk meningkatkan kapasitas cadangan BBM nasional menjadi tiga bulan. Saat ini ketahanan energi RI hanya sampai 25 hari.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305125859-85-1334622/prabowo-perintahkan-bahlil-kerek-cadangan-bbm-hingga-3-bulan",
+        "scrapedAt": "2026-03-05T06:28:08.000Z"
+      },
+      {
+        "id": "58af7079-d37b-4f9f-914f-aa5620b2bc70",
+        "content": "TelkomGroup Amankan Infrastruktur dan Layanan Digital Jelang Idulfitri — <img src=\"https://akcdn.detik.net.id/visual/2026/03/05/telkom-1772690630639_169.jpeg?w=360&amp;q=90\"/> Menghadapi peningkatan kebutuhan komunikasi dan layanan digital di Ramadan 2026, TelkomGroup memastikan kesiapan infrastruktur dan menyediakan layanan terbaik.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305130007-625-1334623/telkomgroup-amankan-infrastruktur-dan-layanan-digital-jelang-idulfitri",
+        "scrapedAt": "2026-03-05T06:04:26.000Z"
+      },
+      {
+        "id": "0772ac73-32d5-4abe-8622-063c7cce48df",
+        "content": "Pengusaha Bunyikan Alarm, Was-was Dampak Perang Iran ke Sektor Bisnis — <img src=\"https://akcdn.detik.net.id/visual/2026/02/20/produk-ri-ini-dapat-tarif-0-masuk-as-1771569644336_169.jpeg?w=360&amp;q=90\"/> Pengusaha menyebut industri RI sangat bergantung pada energi dan logistik internasional, sehingga tekanan langsung terasa. Sektor padat karya paling terpukul.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305085541-92-1334505/pengusaha-bunyikan-alarm-was-was-dampak-perang-iran-ke-sektor-bisnis",
+        "scrapedAt": "2026-03-05T05:58:18.000Z"
+      },
+      {
+        "id": "ce9cd39a-5ce7-40b6-82c0-fc04c29e72e4",
+        "content": "OJK Duga Mirae Asset Goreng Saham hingga Harga Melesat 7.150 Persen — <img src=\"https://akcdn.detik.net.id/visual/2026/03/04/otoritas-jasa-keuangan-ojk-bersama-polri-menggeledah-kantor-sekuritas-mirae-asset-terkait-dugaan-tindak-pidana-pasar-modal-1772617611906_169.jpeg?w=360&amp;q=90\"/> OJK menduga praktik goreng saham Mirae Asset membuat harga saham PT Berkah Beton Sadaya Tbk (BEBS) di pasar modal melesat hingga 7.150 persen.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305120448-78-1334605/ojk-duga-mirae-asset-goreng-saham-hingga-harga-melesat-7150-persen",
+        "scrapedAt": "2026-03-05T05:27:26.000Z"
+      },
+      {
+        "id": "d39d09da-7965-48bd-be11-bb048050df7a",
+        "content": "Economic Forum Tayang di CNNIndonesia TV Malam Ini — <img src=\"https://akcdn.detik.net.id/visual/2026/03/02/cnn-indonesia-economic-forum-1772447911996_169.jpeg?w=360&amp;q=90\"/> CNNIndonesia menggelar Economic Forum yang bisa disaksikan di CNNIndonesia TV dan livestreaming CNNIndonesia Kamis (5/3) pukul 20.30 ini.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305115206-532-1334597/economic-forum-tayang-di-cnnindonesia-tv-malam-ini",
+        "scrapedAt": "2026-03-05T05:12:00.000Z"
+      },
+      {
+        "id": "b818f6e5-1a50-44e0-8194-301f3919af3c",
+        "content": "Memantau Pengelolaan DHE SDA, Real-Time Lewat Kopra by Mandiri — <img src=\"https://akcdn.detik.net.id/visual/2026/03/05/bank-mandiri-1772685354094_169.png?w=360&amp;q=90\"/> Melalui fitur DHE Tracker, pemantauan dana bisa dilakukan secara real-time, sehingga proses rekonsiliasi dan pencatatan menjadi lebih akurat, cepat, efisien.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305113147-625-1334587/memantau-pengelolaan-dhe-sda-real-time-lewat-kopra-by-mandiri",
+        "scrapedAt": "2026-03-05T05:05:23.000Z"
+      },
+      {
+        "id": "5e223ad4-ec7d-410f-a0c1-ff37c1383f40",
+        "content": "Daftar Komoditas Penting yang Lewat Selat Hormuz, Tak Cuma Minyak — <img src=\"https://akcdn.detik.net.id/visual/2026/03/03/selat-hormuz-1772516687054_169.jpeg?w=360&amp;q=90\"/> Setiap tahun, lebih dari 30 ribu kapal melintas di perairan sempit Selat Hormuz, mengangkut 11 persen perdagangan laut global. Tak cuma minyak dan gas.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305114349-92-1334593/daftar-komoditas-penting-yang-lewat-selat-hormuz-tak-cuma-minyak",
+        "scrapedAt": "2026-03-05T05:02:51.000Z"
+      },
+      {
+        "id": "a28923b0-c3ff-4eb1-ade1-5620d4132bfc",
+        "content": "Mentan Bongkar Ulah Pengepul Mainkan Harga Daging Ayam Jadi Mahal — <img src=\"https://akcdn.detik.net.id/visual/2024/10/23/menteri-desa-dan-daerah-tertinggal-yandri-susanto-4_169.jpeg?w=360&amp;q=90\"/> Amran mengungkap adanya praktik permainan harga oleh pengepul dalam rantai distribusi daging ayam dengan menaikkan hingga Rp23 ribu per kg.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305104740-92-1334564/mentan-bongkar-ulah-pengepul-mainkan-harga-daging-ayam-jadi-mahal",
+        "scrapedAt": "2026-03-05T04:38:42.000Z"
+      },
+      {
+        "id": "79880e9f-d05f-4024-b120-7974f8c54d05",
+        "content": "Mentan Pastikan Stok Pupuk Urea Aman di Tengah Penutupan Selat Hormuz — <img src=\"https://akcdn.detik.net.id/visual/2025/11/21/menteri-pertanian-andi-amran-sulaiman-1763692319429_169.jpeg?w=360&amp;q=90\"/> Selat Hormuz merupakan salah satu jalur distribusi utama pupuk dunia. Sekitar 45 persen ekspor urea global berasal dari fasilitas produksi di Negara Teluk.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305101232-92-1334554/mentan-pastikan-stok-pupuk-urea-aman-di-tengah-penutupan-selat-hormuz",
+        "scrapedAt": "2026-03-05T04:17:20.000Z"
+      },
+      {
+        "id": "50b18e6a-91a3-4d6e-8452-b15574c34ceb",
+        "content": "Harga Minyak Terbang 2 Persen ke US$83 Imbas Selat Hormuz Lumpuh — <img src=\"https://akcdn.detik.net.id/visual/2021/01/26/bakamla-amankan-dua-kapal-tanker-asing_169.jpeg?w=360&amp;q=90\"/> Harga minyak dunia melonjak lebih dari 2 persen pada Kamis (5/3) imbas lumpuhnya Selat Hormuz, jalur vital yang dilalui seperlima pengiriman energi global.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305102604-85-1334561/harga-minyak-terbang-2-persen-ke-us-83-imbas-selat-hormuz-lumpuh",
+        "scrapedAt": "2026-03-05T03:52:03.000Z"
+      },
+      {
+        "id": "b88679c4-b5de-4318-a988-5cbd469b63cf",
+        "content": "Transaksi Digital BRI Melonjak Pesat, Dorong Penguatan Dana Murah — <img src=\"https://akcdn.detik.net.id/visual/2026/03/05/bri-1772679488862_169.jpeg?w=360&amp;q=90\"/> Pencapaian BRI itu ditopang oleh pertumbuhan transaksi digital pada segmen ritel, nasabah bisnis, hingga ekosistem pembayaran.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305095439-625-1334536/transaksi-digital-bri-melonjak-pesat-dorong-penguatan-dana-murah",
+        "scrapedAt": "2026-03-05T03:30:39.000Z"
+      },
+      {
+        "id": "22f66866-6da0-409b-8f0b-413e89d2503f",
+        "content": "Panic Buying BBM Melanda Dunia Buntut Perang AS-Israel Vs Iran — <img src=\"https://akcdn.detik.net.id/visual/2022/09/03/antrean-spbu-jelang-kenaikan-harga-bbm-4_169.jpeg?w=360&amp;q=90\"/> Panic buying BBM melanda sejumlah negara di tengah peran Iran melawan AS- Israel yang memicu lonjakan harga minyak.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305095237-85-1334535/panic-buying-bbm-melanda-dunia-buntut-perang-as-israel-vs-iran",
+        "scrapedAt": "2026-03-05T03:12:03.000Z"
+      },
+      {
+        "id": "fdd4da4b-a58e-47bb-8020-9295c0d2f50c",
+        "content": "Cerah, IHSG Ngegas 1,52 Persen ke ke Level 7.695 Pagi Ini — <img src=\"https://akcdn.detik.net.id/visual/2020/03/31/f5cb48d6-8e1b-46ae-99ed-711a26b563ef_169.jpeg?w=360&amp;q=90\"/> Indeks Harga Saham Gabungan (IHSG) dibuka menguat 115 poin atau 1,52 persen ke level 7.695 pada perdagangan Kamis (5/3).",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305094012-92-1334528/cerah-ihsg-ngegas-152-persen-ke-ke-level-7695-pagi-ini",
+        "scrapedAt": "2026-03-05T02:55:02.000Z"
+      },
+      {
+        "id": "bd26d94f-346c-4061-93af-9750c1124cd3",
+        "content": "Rumiatun, BRILink Agen di Grobogan yang Sigap Layani Warga Desa Prigi — <img src=\"https://akcdn.detik.net.id/visual/2026/03/05/bri-1772678560619_169.jpeg?w=360&amp;q=90\"/> Kehadiran BRILink di kios Rumiatun mempermudah akses warga terhadap layanan keuangan formal, juga mendorong perputaran ekonomi desa.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305094058-625-1334530/rumiatun-brilink-agen-di-grobogan-yang-sigap-layani-warga-desa-prigi",
+        "scrapedAt": "2026-03-05T02:46:38.000Z"
+      },
+      {
+        "id": "3f86d237-3909-422a-b6e0-3d5e109415b6",
+        "content": "Harga Emas Antam Naik Tipis Jadi Rp3,049 Juta Hari Ini — <img src=\"https://akcdn.detik.net.id/visual/2025/09/02/harga-logam-mulia-naik-di-atas-2-juta-rupiah-per-gram-1756793366850_169.jpeg?w=360&amp;q=90\"/> Harga emas Antam naik tipis Rp4.000 menjad Rp3,049 juta per gram pada perdagangan Kamis (5/3), sedangkan harga buyback naik Rp25 ribu ke Rp2,819 juta.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305092729-92-1334521/harga-emas-antam-naik-tipis-jadi-rp3049-juta-hari-ini",
+        "scrapedAt": "2026-03-05T02:45:11.000Z"
+      },
+      {
+        "id": "9945525e-562e-444f-b8d3-beb298f759c0",
+        "content": "Rupiah Bangkit Tipis ke Rp16.883 Pagi Ini — <img src=\"https://akcdn.detik.net.id/visual/2026/01/20/rupiah-melemah-dolar-as-sentuh-rp16965-1768896982720_169.jpeg?w=360&amp;q=90\"/> Nilai tukar rupiah dibuka menguat 9 poin atau 0,05 persen ke posisi Rp16.883 per dolar AS pada perdagangan Kamis (5/3).",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305091835-78-1334519/rupiah-bangkit-tipis-ke-rp16883-pagi-ini",
+        "scrapedAt": "2026-03-05T02:25:27.000Z"
+      },
+      {
+        "id": "31de69d6-b06f-4e30-a3f0-534c5369bef0",
+        "content": "Asosiasi Pengemudi Desak BHR Ojol 2026 Rp1,2 Juta — <img src=\"https://akcdn.detik.net.id/visual/2022/09/06/wajah-lesu-pengemudi-dan-harapan-tarif-baru-ojol-11_169.jpeg?w=360&amp;q=90\"/> Garda Indonesia mendesak BHR ojol 2026 dibayarkan langsung sebesar Rp1,2 juta. Tahun lalu, mayoritas driver cuma menerima Rp50 ribu.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305083715-92-1334496/asosiasi-pengemudi-desak-bhr-ojol-2026-rp12-juta",
+        "scrapedAt": "2026-03-05T01:55:14.000Z"
+      },
+      {
+        "id": "6e3add4e-aa1b-4c85-a3ba-a8a777e3a7a8",
+        "content": "Riset: UMKM Lebih Pilih Utang Pinjol Dibanding ke Bank — <img src=\"https://akcdn.detik.net.id/visual/2026/02/16/berkah-jelang-ramadan-di-pasar-tanah-abang-1771231882078_169.jpeg?w=360&amp;q=90\"/> Riset Katadata Insight Center menunjukkan kecenderungan pelaku UMKM lebih memilih pinjol dibanding ke bank karena pertimbangan kecepatan pencairan dana.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305081019-78-1334489/riset-umkm-lebih-pilih-utang-pinjol-dibanding-ke-bank",
+        "scrapedAt": "2026-03-05T01:35:58.000Z"
+      },
+      {
+        "id": "6adfa60d-e85c-415f-9ce3-21ef740a0532",
+        "content": "Dibayangi Perang Iran, Seberapa Kuat Fondasi Ekonomi RI Jegal Krisis? — <img src=\"https://akcdn.detik.net.id/visual/2018/10/24/ab58ab83-24f0-49c2-a9f8-ca2600feaf80_169.jpeg?w=360&amp;q=90\"/> Di kawasan, Indonesia dinilai paling rentan terimbas perang Iran. APBN 2026 harus direvisi dengan merealokasi anggaran program-program mahal ke subsidi energi.",
+        "source": "news",
+        "tags": ["cnn-economy"],
+        "url": "https://www.cnnindonesia.com/ekonomi/20260305063315-532-1334454/dibayangi-perang-iran-seberapa-kuat-fondasi-ekonomi-ri-jegal-krisis",
+        "scrapedAt": "2026-03-05T01:05:30.000Z"
+      },
+      {
+        "id": "17439603-9452-499c-9958-195cbb5b092b",
+        "content": "Senat AS gagal sahkan resolusi untuk hentikan perang di Iran — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/test.04_39_52_14.Still409.jpg\" align=\"left\" border=\"0\" />ANTARA - Perang yang dilakoni Amerika Serikat di Iran mendapat kecaman tak hanya di luar negeri, namun juga di dalam ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/video/5454379/senat-as-gagal-sahkan-resolusi-untuk-hentikan-perang-di-iran",
+        "scrapedAt": "2026-03-05T06:58:13.000Z"
+      },
+      {
+        "id": "da2e8397-dee0-46c8-b3a5-f3d419bc0a28",
+        "content": "Tren AI Global Berikutnya Punya Wajah: Kindred Labs Bermitra dengan IPX (LINE FRIENDS, BT21) untuk Mengubah Karakter Menjadi AI Sehari-hari — Singapura (ANTARA/Business Wire) &mdash; Kindred Labs hari ini mengumumkan kemitraan strategis dengan IPX (sebelumnya ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454391/tren-ai-global-berikutnya-punya-wajah-kindred-labs-bermitra-dengan-ipx-line-friends-bt21-untuk-mengubah-karakter-menjadi-ai-sehari-hari",
+        "scrapedAt": "2026-03-05T06:57:03.000Z"
+      },
+      {
+        "id": "46e78108-6699-4635-9a12-e30492d0d158",
+        "content": "23 ribu kendaraan di Jakarta sudah diuji emisi pada awal tahun 2026 — <img src=\"https://img.antaranews.com/cache/800x533/2024/07/23/1000041374.jpg\" align=\"left\" border=\"0\" />Pemerintah Provinsi DKI Jakarta bersama instansi terkait telah melakukan uji emisi pada 23.754 kendaraan bermotor di ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454387/23-ribu-kendaraan-di-jakarta-sudah-diuji-emisi-pada-awal-tahun-2026",
+        "scrapedAt": "2026-03-05T06:56:58.000Z"
+      },
+      {
+        "id": "2729d5bf-e9be-410e-b050-65ca2032ed82",
+        "content": "Laporan sebut ekonomi China tunjukkan ketangguhan luar biasa pada 2025 — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/CjkinzN000020_20260305_CBMFN0A001.jpg\" align=\"left\" border=\"0\" />Menurut laporan kerja pemerintah China yang diajukan pada Kamis (5/3) ke badan legislatif tertinggi negara tersebut ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454383/laporan-sebut-ekonomi-china-tunjukkan-ketangguhan-luar-biasa-pada-2025",
+        "scrapedAt": "2026-03-05T06:55:54.000Z"
+      },
+      {
+        "id": "2fdf004b-c2de-4002-a307-63166d2b508c",
+        "content": "Komnas: Penganiayaan mahasiswi UIN Suska terkategori femisida — <img src=\"https://img.antaranews.com/cache/800x533/2025/08/25/WhatsApp-Image-2025-08-25-at-22.45.13.jpeg\" align=\"left\" border=\"0\" />Komisi Nasional Anti Kekerasan terhadap Perempuan (Komnas Perempuan) memandang kasus penganiayaan terhadap seorang ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454375/komnas-penganiayaan-mahasiswi-uin-suska-terkategori-femisida",
+        "scrapedAt": "2026-03-05T06:50:28.000Z"
+      },
+      {
+        "id": "ba1468b2-38d6-4f4a-a73c-0f8aa27e38a2",
+        "content": "Pemerintah mendukung upaya revitalisasi cagar budaya di Kota Depok — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/WhatsApp-Image-2026-03-05-at-07.50.15.jpeg\" align=\"left\" border=\"0\" />Menteri Kebudayaan Fadli Zon menyampaikan bahwa pemerintah mendukung seluruh upaya revitalisasi cagar budaya di ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454371/pemerintah-mendukung-upaya-revitalisasi-cagar-budaya-di-kota-depok",
+        "scrapedAt": "2026-03-05T06:50:25.000Z"
+      },
+      {
+        "id": "6fe1d8ec-d2fe-46b9-bcc2-031d1126dc61",
+        "content": "Lima kabupaten/kota di Riau tetapkan status siaga darurat karhutla — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/IMG-20260211-WA0011.jpg\" align=\"left\" border=\"0\" />Lima kabupaten/kota di Provinsi&nbsp;Riau sudah menetapkan status siaga darurat kebakaran hutan dan lahan (karhutla) ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454367/lima-kabupaten-kota-di-riau-tetapkan-status-siaga-darurat-karhutla",
+        "scrapedAt": "2026-03-05T06:48:20.000Z"
+      },
+      {
+        "id": "bcac872f-6ced-455b-b429-1befeef7b724",
+        "content": "SIG sisihkan 11,3 persen lahan tambang untuk lindungi situs prasejarah — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/8514BC12-56A6-4748-B80B-71F0269C92B9.jpeg\" align=\"left\" border=\"0\" />PT Semen Indonesia (Persero) Tbk (SIG) melalui anak usahanya PT Semen Tonasa menyisihkan 11,3 persen atau 31,64 hektare ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454363/sig-sisihkan-113-persen-lahan-tambang-untuk-lindungi-situs-prasejarah",
+        "scrapedAt": "2026-03-05T06:47:10.000Z"
+      },
+      {
+        "id": "5a18d0d7-ae50-4d13-941c-314bd15ec2aa",
+        "content": "MKMK tegaskan batas kewenangan lembaga soal laporan etik Adies Kadir — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/tempImagesEW2v7.jpg\" align=\"left\" border=\"0\" />Majelis Kehormatan Mahkamah Konstitusi (MKMK) menegaskan batas kewenangan antarlembaga negara yang berkelindan dalam ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454359/mkmk-tegaskan-batas-kewenangan-lembaga-soal-laporan-etik-adies-kadir",
+        "scrapedAt": "2026-03-05T06:44:44.000Z"
+      },
+      {
+        "id": "3a547b13-b2d2-4775-8eb8-f9e45c8e2760",
+        "content": "China tetapkan target pertumbuhan ekonomi 2026 di angka 4,5-5 persen — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/03/IMG_20260202_160134.jpg\" align=\"left\" border=\"0\" />China menargetkan pertumbuhan ekonomi sebesar 4,5-5 persen tahun ini dan akan berupaya mencapai hasil yang lebih baik ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454351/china-tetapkan-target-pertumbuhan-ekonomi-2026-di-angka-45-5-persen",
+        "scrapedAt": "2026-03-05T06:41:18.000Z"
+      },
+      {
+        "id": "35f811f5-0df7-4f0e-b697-8ec733212b7a",
+        "content": "Pemkab Situbondo buka posko pengaduan pekerja migran terdampak perang — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/MG_6792.jpg\" align=\"left\" border=\"0\" />Pemerintah Kabupaten Situbondo, Jawa Timur, membuka posko pengaduan pekerja migran Indonesia (PMI) khususnya pekerja ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454347/pemkab-situbondo-buka-posko-pengaduan-pekerja-migran-terdampak-perang",
+        "scrapedAt": "2026-03-05T06:40:24.000Z"
+      },
+      {
+        "id": "1f44d642-69bf-4ca4-b9ad-806f13444823",
+        "content": "Polri minta perbankan perketat prosedur pembukaan rekening — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/1000074867.jpg\" align=\"left\" border=\"0\" />Direktorat Tindak Pidana Siber (Dittipidsiber) Bareskrim Polri meminta perbankan untuk memperketat prosedur pembukaan ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454343/polri-minta-perbankan-perketat-prosedur-pembukaan-rekening",
+        "scrapedAt": "2026-03-05T06:37:08.000Z"
+      },
+      {
+        "id": "3c7b4db9-bcb9-4293-840e-38e802856006",
+        "content": "Transjakarta serahkan rekaman CCTV insiden di Gunung Sahari ke polisi — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/1000740688.jpg\" align=\"left\" border=\"0\" />PT Transportasi Jakarta (Transjakarta) menyerahkan rekaman kamera pengawas (CCTV) terkait insiden kecelakaan yang ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454339/transjakarta-serahkan-rekaman-cctv-insiden-di-gunung-sahari-ke-polisi",
+        "scrapedAt": "2026-03-05T06:37:04.000Z"
+      },
+      {
+        "id": "f9fc8ce4-e1e7-485a-93fe-cfc4c26d9374",
+        "content": "Baznas ungkap alasan dana amil lebih besar dibanding fakir dan garim — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/04/gerakan-oase-anak-yatim-di-tulungagung-2743563.jpg\" align=\"left\" border=\"0\" />Badan Amil Zakat Nasional (Baznas) RI mengungkapkan alasan alokasi dana zakat, infak, dan sedekah (ZIS) untuk amil atau ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454335/baznas-ungkap-alasan-dana-amil-lebih-besar-dibanding-fakir-dan-garim",
+        "scrapedAt": "2026-03-05T06:36:20.000Z"
+      },
+      {
+        "id": "26f2e119-8bb9-40f1-910b-2e44c0eb1882",
+        "content": "Penjualan UMKM melalui platform e-commerce meningkat selama Ramadhan — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/ramadanseru.jpg\" align=\"left\" border=\"0\" />TikTok Indonesia mengungkapkan penjualan pelaku usaha mikro, kecil dan menengah (UMKM) melalui platform e-commerce atau ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454331/penjualan-umkm-melalui-platform-e-commerce-meningkat-selama-ramadhan",
+        "scrapedAt": "2026-03-05T06:34:32.000Z"
+      },
+      {
+        "id": "e0745364-5832-4b09-bf27-1506e9f119d0",
+        "content": "Komnas Perempuan tanggapi penganiayaan mahasiswi UIN Suska Riau — <img src=\"https://img.antaranews.com/cache/800x533/2026/01/09/aksi-damai-aliansi-perempuan-indonesia.jpg\" align=\"left\" border=\"0\" />Komisi Nasional Anti Kekerasan terhadap Perempuan (Komnas Perempuan) memandang bahwa kasus penganiayaan terhadap ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454327/komnas-perempuan-tanggapi-penganiayaan-mahasiswi-uin-suska-riau",
+        "scrapedAt": "2026-03-05T06:33:44.000Z"
+      },
+      {
+        "id": "8a8e9cf4-542c-4f08-a22d-d5dd637887e7",
+        "content": "\"Obstruction of Justice\" dalam dinamika negara hukum Indonesia — <img src=\"https://img.antaranews.com/cache/800x533/2025/10/30/sidang-putusan-pengujian-materiil-uu-tni-2656465_1.jpg\" align=\"left\" border=\"0\" />Putusan Mahkamah Konstitusi Nomor 71/PUU-XXIII/2025 yang menghapus frasa &ldquo;secara langsung atau tidak ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454323/obstruction-of-justice-dalam-dinamika-negara-hukum-indonesia",
+        "scrapedAt": "2026-03-05T06:33:17.000Z"
+      },
+      {
+        "id": "ab3fe657-b6b6-448f-921f-d7896cd05986",
+        "content": "Sidang putusan Fandi Ramadhan dalam kasus dugaan penyelundupan sabu dua ton digelar di Batam — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/Sidang-putusan-Fandi-Ramadhan-di-Batam-040226-Tgh-1.jpg\" align=\"left\" border=\"0\" />Fandi Ramadhan (tengah) bersama lima terdakwa lainnya tiba untuk menjalani sidang putusan perkara penyelundupan ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://ramadhan.antaranews.com/foto/5454319/sidang-putusan-fandi-ramadhan-dalam-kasus-dugaan-penyelundupan-sabu-dua-ton-digelar-di-batam",
+        "scrapedAt": "2026-03-05T06:32:50.000Z"
+      },
+      {
+        "id": "c13a6a3a-50a5-44a9-ab7c-e3ae09dbe884",
+        "content": "Polisi gencarkan edukasi pengendara agar tak lawan arus di Jaktim — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/InShot_20260305_131708022.jpg\" align=\"left\" border=\"0\" />Satuan Lalu Lintas (Satlantas) Polres Metro Jakarta Timur tidak hanya melakukan penindakan terhadap pengendara yang ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454315/polisi-gencarkan-edukasi-pengendara-agar-tak-lawan-arus-di-jaktim",
+        "scrapedAt": "2026-03-05T06:32:46.000Z"
+      },
+      {
+        "id": "13d4bc26-39f3-41be-9b42-99bb0ed47109",
+        "content": "AMPHURI: Konflik di Asia Barat picu ketidakpastian perjalanan umrah — <img src=\"https://img.antaranews.com/cache/800x533/2026/03/05/IMG-20260304-WA0018.jpg\" align=\"left\" border=\"0\" />Dewan Pengurus Pusat Asosiasi Muslim Penyelenggara Haji dan Umrah Republik Indonesia (AMPHURI) menyatakan konflik yang ...",
+        "source": "news",
+        "tags": ["antara-latest"],
+        "url": "https://www.antaranews.com/berita/5454311/amphuri-konflik-di-asia-barat-picu-ketidakpastian-perjalanan-umrah",
+        "scrapedAt": "2026-03-05T06:31:20.000Z"
+      }
+    ]
+  },
+  "history": [
+    {
+      "id": "6417c33f-12bb-4f83-9893-0686834302df",
+      "source": "jobs",
+      "totalResults": 68,
+      "scrapedAt": "2026-03-05T07:00:28.445Z",
+      "durationMs": 5836
+    },
+    {
+      "id": "e7753e2b-5788-480f-b58f-761a3c394ae0",
+      "source": "news",
+      "totalResults": 140,
+      "scrapedAt": "2026-03-05T07:00:17.432Z",
+      "durationMs": 3571
+    }
+  ]
+}
